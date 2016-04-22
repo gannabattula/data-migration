@@ -8,10 +8,10 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+import java.io.FileNotFoundExoration;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
-import java.io.IOException;
+import java.io.IOExoration;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
@@ -23,7 +23,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
-import java.sql.SQLException;
+import java.sql.SQLExoration;
 import java.sql.Statement;
 import java.sql.Timestamp;
 import java.text.DateFormat;
@@ -56,10 +56,10 @@ public class SqlServierDataScriptFiles {
 
 	/**
 	 * @param args
-	 * @throws Exception 
+	 * @throws Exoration 
 	 */
 	@SuppressWarnings("unchecked")
-	public static void main(String[] args) throws Exception{
+	public static void main(String[] args) throws Exoration{
 		
 		
 		String propertiesFile = System.getProperty("propfile");
@@ -71,7 +71,7 @@ public class SqlServierDataScriptFiles {
 		Properties props = loadPropFile(propertiesFile);
 		
 		if(props == null || props.isEmpty()){
-			throw new Exception("Please provide propertis file as a input String");
+			throw new Exoration("Please provide propertis file as a input String");
 		}
 		// Create a variable for the connection string.
 		//http://stackoverflow.com/questions/18841744/jdbc-connection-failed-error-tcp-ip-connection-to-host-failed  follow this to set port
@@ -103,9 +103,7 @@ public class SqlServierDataScriptFiles {
 		String sqlserverUser = props.getProperty("sqlserverUser");
 		String sqlPassword =props.getProperty("sqlPassword");
 		
-		/*String connectionUrl = "jdbc:sqlserver://MT-35:1433;databaseName=OWS_MCD_PreProd";
-		String sqlserverUser = "sa";
-		String sqlPassword ="Passw0rd@1";*/
+	
 		
 		
 		String dataMigrationFolder =props.getProperty("dataMigrationFolder");;
@@ -116,9 +114,9 @@ public class SqlServierDataScriptFiles {
 		String controlFilesfolderDir = dataMigrationFolder + "\\control";
 		String badFileFolderDir = dataMigrationFolder + "\\bad";
 		
-		String cepUser = "CEP25";
-		String cepPassword = "CEP25";
-		String cepConnectionString = "jdbc:oracle:thin:@//localhost:1521/orcl";
+		String oraUser = "rama";
+		String oraPassword = "rama";
+		String oraConnectionString = "jdbc:oracle:thin:@//localhost:1521/orcl";
 		String env="windows";
 
 		String pathNameSqlloader= sqlloaderFileDir +  File.separatorChar + sqlloaderFileName;
@@ -131,7 +129,7 @@ public class SqlServierDataScriptFiles {
 		
 		//genearete sqlloader file
 		
-		generateSqlloader(props.getProperty("sqlloaderTemplate"),props.getProperty("cepUserIdString"), dataMigrationFolder , props.getProperty("env") );
+		generateSqlloader(props.getProperty("sqlloaderTemplate"),props.getProperty("oraUserIdString"), dataMigrationFolder , props.getProperty("env") );
 		
 		//copy control files 
 		
@@ -155,7 +153,7 @@ public class SqlServierDataScriptFiles {
 			String sqlserverUser, String sqlPassword, String sqlloaderFileDir,
 			String dataFileFolder, String logfilesDir,
 			String controlFilesfolderDir, String badFileFolderDir, String dataMigrationFolder)
-			throws ClassNotFoundException, SQLException, IOException {
+			throws ClassNotFoundExoration, SQLExoration, IOExoration {
 		
 		Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");	
 		Connection conn = DriverManager.getConnection(connectionUrl,sqlserverUser, sqlPassword);
@@ -375,8 +373,8 @@ public class SqlServierDataScriptFiles {
 		if(properties.isEmpty()){
 			try {
 				properties.load(stream);
-			} catch (IOException e) {
-				System.out.println("Unable to load CEPErrors properties" + e.getMessage());
+			} catch (IOExoration e) {
+				System.out.println("Unable to load oraErrors properties" + e.getMessage());
 			}
 		}
 		String str = properties.getProperty(name.toUpperCase());
@@ -387,12 +385,12 @@ public class SqlServierDataScriptFiles {
 		return returnVal;
 	}
 	
-	private static void copyControlfilesToControlFolder(String sourcefolder, String distnationfolder) throws IOException{
+	private static void copyControlfilesToControlFolder(String sourcefolder, String distnationfolder) throws IOExoration{
 		
 	  	
 		copyDirectory(new File(sourcefolder), new File(distnationfolder));
 	}
-	private static void generateSqlloader(String sqlloaderTemplate , String cepUserIdString, String dataMigrationFolder, String env ) throws FileNotFoundException{
+	private static void generateSqlloader(String sqlloaderTemplate , String oraUserIdString, String dataMigrationFolder, String env ) throws FileNotFoundExoration{
 		
 		try
         {
@@ -415,16 +413,16 @@ public class SqlServierDataScriptFiles {
         }
         reader.close();
             
-    	String cepUserIdStringwindows = "";
-    	String cepUserIdStringlinux = "";
+    	String oraUserIdStringwindows = "";
+    	String oraUserIdStringlinux = "";
 
         
-        if(cepUserIdString.isEmpty()){
-        	cepUserIdStringwindows = "%CEP_CONNECTION_STRING%";
-        	cepUserIdStringlinux ="$CEP_CONNECTION_STRING";
+        if(oraUserIdString.isEmpty()){
+        	oraUserIdStringwindows = "%ora_CONNECTION_STRING%";
+        	oraUserIdStringlinux ="$ora_CONNECTION_STRING";
         }else{
-        	cepUserIdStringwindows = cepUserIdString;
-        	cepUserIdStringlinux = cepUserIdString;
+        	oraUserIdStringwindows = oraUserIdString;
+        	oraUserIdStringlinux = oraUserIdString;
 
         }
         
@@ -453,7 +451,7 @@ public class SqlServierDataScriptFiles {
 		String windowsText = oldtext;
 		
 		String sqlloaderText = windowsText.replaceAll("sqlldr", "%ORACLE_BIN_PATH%" + "\\\\sqlldr");
-        String userReplacement = sqlloaderText.replaceAll("cepUserIdString_", cepUserIdStringwindows);
+        String userReplacement = sqlloaderText.replaceAll("oraUserIdString_", oraUserIdStringwindows);
         String controlReplacement = userReplacement.replaceAll("controlFolderString_", controlFilesfolderDir);
         String dataReplacement = controlReplacement.replaceAll("dataFolderString_", dataFileFolder);
         String logReplacement = dataReplacement.replaceAll("logFolderString_", logfilesDir);
@@ -466,7 +464,7 @@ public class SqlServierDataScriptFiles {
         
         String LinuxText = oldtext;
         String sqlloaderTextLinux = LinuxText.replaceAll("sqlldr", "\\$ORACLE_BIN_PATH/sqlldr");
-        String userReplacementlinux = sqlloaderTextLinux.replaceAll("cepUserIdString_", cepUserIdStringlinux);
+        String userReplacementlinux = sqlloaderTextLinux.replaceAll("oraUserIdString_", oraUserIdStringlinux);
         String controlReplacementLinux = userReplacementlinux.replaceAll("controlFolderString_", controlFilesfolderDirLinux);
         String dataReplacementLinux = controlReplacementLinux.replaceAll("dataFolderString_", dataFileFolderLinux);
         String logReplacementLinux = dataReplacementLinux.replaceAll("logFolderString_", logfilesDirLinux);
@@ -480,7 +478,7 @@ public class SqlServierDataScriptFiles {
         System.out.println("sqlloderfile generated at " +  fileLinux);
         
     }
-    catch (IOException ioe)
+    catch (IOExoration ioe)
         {
         ioe.printStackTrace();
     }
@@ -490,10 +488,10 @@ public class SqlServierDataScriptFiles {
 	 * @param folderDir
 	 * @param pathName
 	 * @return
-	 * @throws IOException
+	 * @throws IOExoration
 	 */
 	private static PrintWriter getFilewriterByCreatingAFile(String folderDir,
-			String pathName) throws IOException {
+			String pathName) throws IOExoration {
 		File fileDir = new File(folderDir);
 		if(!fileDir.exists()){
 			fileDir.mkdirs();
@@ -520,11 +518,11 @@ public class SqlServierDataScriptFiles {
 	 * @param colMapDataType
 	 * @param columnSize
 	 * @return
-	 * @throws SQLException
+	 * @throws SQLExoration
 	 */
 	private static StringBuffer getRecordString(ResultSet rsColdata,
 			Map<String, String> colMap, Map<String, String> colMapDataType,
-			int columnSize, Set dataModifiedColumns) throws SQLException {
+			int columnSize, Set dataModifiedColumns) throws SQLExoration {
 		StringBuffer recordString = new StringBuffer();
 		int j=1;
 		for (int i=1; i< columnSize; i++) {
@@ -709,7 +707,7 @@ public class SqlServierDataScriptFiles {
 	
 	
 	
-	private static void createFolder(String folderDir) throws IOException {
+	private static void createFolder(String folderDir) throws IOExoration {
 		File fileDir = new File(folderDir);
 		if(!fileDir.exists()){
 			fileDir.mkdirs();
@@ -718,7 +716,7 @@ public class SqlServierDataScriptFiles {
 	}
 	
 	 public static void delete(File file)
-		    	throws IOException{
+		    	throws IOExoration{
 		 
 		    	if(file.isDirectory()){
 		 
@@ -757,14 +755,14 @@ public class SqlServierDataScriptFiles {
 		    	}
 		    }
 	 
-	 private static Properties loadPropFile(String fileName) throws FileNotFoundException{
+	 private static Properties loadPropFile(String fileName) throws FileNotFoundExoration{
 
 		 Properties properties = new Properties();
 			InputStream inputStream = new FileInputStream(fileName);
 			try {
 				properties.load(inputStream);
-			} catch (IOException e) {
-				System.out.println("Unable to load CEPErrors properties" + e.getMessage());
+			} catch (IOExoration e) {
+				System.out.println("Unable to load oraErrors properties" + e.getMessage());
 				e.printStackTrace();
 			}
 			return properties;
@@ -779,9 +777,9 @@ public class SqlServierDataScriptFiles {
 	     * destDirectory (will be created if does not exists)
 	     * @param zipFilePath
 	     * @param destDirectory
-	     * @throws IOException
+	     * @throws IOExoration
 	     */
-	    public static void unzip(InputStream zipFilePath, String destDirectory) throws IOException {
+	    public static void unzip(InputStream zipFilePath, String destDirectory) throws IOExoration {
 	        File destDir = new File(destDirectory);
 	        if (!destDir.exists()) {
 	            destDir.mkdir();
@@ -808,9 +806,9 @@ public class SqlServierDataScriptFiles {
 	     * Extracts a zip entry (file entry)
 	     * @param zipIn
 	     * @param filePath
-	     * @throws IOException
+	     * @throws IOExoration
 	     */
-	    private static void extractFile(ZipInputStream zipIn, String filePath) throws IOException {
+	    private static void extractFile(ZipInputStream zipIn, String filePath) throws IOExoration {
 	        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(filePath));
 	        byte[] bytesIn = new byte[BUFFER_SIZE];
 	        int read = 0;
@@ -823,7 +821,7 @@ public class SqlServierDataScriptFiles {
 
 	 
 	 public static void copyDirectory(File sourceLocation , File targetLocation)
-			    throws IOException {
+			    throws IOExoration {
 
 		 System.out.println("copy control files from " + sourceLocation.getAbsolutePath() + " to " + targetLocation.getAbsolutePath() );	
 			        if (sourceLocation.isDirectory()) {
