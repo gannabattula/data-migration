@@ -1,0 +1,6 @@
+EntityTypeID~EntityName
+'1'~'SupplierCompanyProfile'
+'2'~'SupplierFacilityProfile'
+'4'~'Address'
+'5'~'Contact'
+'99'~'SupplierProductRequest'

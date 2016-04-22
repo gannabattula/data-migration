@@ -1,0 +1,818 @@
+FacilityName~MerlinFacilityID~StetonFacilityID~iEnableFacilityID~OWS ID~MerlinParentID~StetonParentID~iEnableParentID~OWS ParentID~PartyResponsibleforRelationship~facilityGLN~facilityWSINumber~facilityWSIstatus~facilityWSINotes~SWAStatus~SWADate~facilityType~facilityStartDate~facilityCloseDate~facilityCategory~website~phone~fax~physaddressLine1~physaddressLine2~physcity~phyISOSubdivision~physpostalCode~physcountry~postaladdressLine1~postaladdressLine2~postalcity~postalISOSubdivision~postalpostalCode~postalcountry~billingaddressLine1~billingaddressLine2~billingcity~billingISOSubdivision~billingpostalCode~billingcountry~OWS_Workflow_Status~GenerateGLN
+'Hormel Food Service'~'5002921'~'A974'~~~'5000624'~'M486'~~~'North America'~~'46010'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.hormelfoodservice.com'~'0015074375440'~'0015074375146'~'1 HORMEL PLACE P O  BOX 800'~~'AUSTIN'~'MN'~'55912'~'US'~'1 HORMEL PLACE P O  BOX 800'~~'AUSTIN'~'MN'~'55912'~'US'~'1 HORMEL PLACE P O  BOX 800'~~'AUSTIN'~'MN'~'55912'~'US'~'Final'~'N'
+'Mount Royal'~'5002093'~'A1238'~~~'5000659'~'M495'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~'2008-10-30'~'Food'~~'5143402472'~~'8600 Devonshire Road'~~'Mount Royal'~'QC'~~'CA'~'8600 Devonshire Road'~~'Mount Royal'~'QC'~~'CA'~'8600 Devonshire Road'~~'Mount Royal'~'QC'~~'CA'~'Final'~'N'
+'Sugar Foods Corporation'~'5002851'~'A1160'~~~'5000593'~'M521'~~~'North America'~~'22611'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0018187687900'~'0018187687619'~'9500 El Dorado Avenue'~'PO BOX 1220'~'Sun Valley'~'CA'~'91353'~'US'~'9500 El Dorado Avenue'~'PO BOX 1220'~'Sun Valley'~'CA'~'91353'~'US'~'9500 El Dorado Avenue'~'PO BOX 1220'~'Sun Valley'~'CA'~'91353'~'US'~'Final'~'N'
+'Ascania - Pack'~'5002702'~'A1200'~~~'5000492'~'M531'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.askania-pack.com.ua'~'00380445681271'~'380442064683'~'4, 23 km Kharkovskoe shosse'~~'Kiev'~~'2121'~'UA'~'4, 23 km Kharkovskoe shosse'~~'Kiev'~~'2121'~'UA'~'4, 23 km Kharkovskoe shosse'~~'Kiev'~~'2121'~'UA'~'Final'~'N'
+'Chaucer Foods Ltd.'~'5002351'~'A1205'~~~'5000180'~'M535'~~~'Europe'~~'23846'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441482588088'~~'Brighton Street Industrial Estate, Freightliner Road'~~'Hull'~~~'GB'~'Brighton Street Industrial Estate, Freightliner Road'~~'Hull'~~~'GB'~'Brighton Street Industrial Estate, Freightliner Road'~~'Hull'~~~'GB'~'Final'~'N'
+'Easy Foods'~'5002557'~'A1211'~~~'5000350'~'M540'~~~'Europe'~~'37640'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4576308700'~~'Albuen 39'~~'Kolding'~~'6000'~'DK'~'Albuen 39'~~'Kolding'~~'6000'~'DK'~'Albuen 39'~~'Kolding'~~'6000'~'DK'~'Final'~'N'
+'Gempack'~'5002585'~'A1217'~~~'5000377'~'M545'~~~'Europe'~~'38743'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0035318119466'~~'Upper Ballyfermot Rd.'~~'Dublin 10'~~'10'~'IE'~'Upper Ballyfermot Rd.'~~'Dublin 10'~~'10'~'IE'~'Upper Ballyfermot Rd.'~~'Dublin 10'~~'10'~'IE'~'Final'~'N'
+'segafredo'~'5001780'~'A1228'~~~~'M551'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33235581800'~~'14 boulevard industriel, BP 47 – 76301- sotteville-lès-Rouen.'~~'sotteville-lès-Rouen.'~~~'FR'~'14 boulevard industriel, BP 47 – 76301- sotteville-lès-Rouen.'~~'sotteville-lès-Rouen.'~~~'FR'~'14 boulevard industriel, BP 47 – 76301- sotteville-lès-Rouen.'~~'sotteville-lès-Rouen.'~~~'FR'~'Final'~'N'
+'Golden Boy Foods Ltd.'~'5002986'~'A1232'~~~'5000661'~'M554'~~~'North America'~~'23745'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'16044332200'~~'7725 Lougheed Highway'~~'Burnaby'~'BC'~~'CA'~'7725 Lougheed Highway'~~'Burnaby'~'BC'~~'CA'~'7725 Lougheed Highway'~~'Burnaby'~'BC'~~'CA'~'Final'~'N'
+'Wytwórnia WAFLI Lucyna Zborowska'~'5001590'~'A563'~~~'5000891'~'M562'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0048515554527'~~'ul. Osadnicza 35'~~'Zielona Gora'~'LB'~'65-785 '~'PL'~'ul. Osadnicza 35'~~'Zielona Gora'~'LB'~'65-785 '~'PL'~'ul. Osadnicza 35'~~'Zielona Gora'~'LB'~'65-785 '~'PL'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'MARTINE SPECIALITIES SA'~'5001783'~'A1292'~~~'5001055'~'M563'~~~'Europe'~~'43204'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.martine-specialites.com'~'553023200'~'33553023220'~'VALADE'~~'CONDAT SUR TRINCOU'~'24'~'24530'~'FR'~'VALADE'~~'CONDAT SUR TRINCOU'~'24'~'24530'~'FR'~'VALADE'~~'CONDAT SUR TRINCOU'~'24'~'24530'~'FR'~'Final'~'N'
+'Panike, S.A.'~'5001791'~'A1347'~~~'5001063'~'M571'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.panike.pt/'~~~'Rua de Leandro, lote 5, 4425-524 S. Pedro Fins'~~'Maia'~~~'PT'~'Rua de Leandro, lote 5, 4425-524 S. Pedro Fins'~~'Maia'~~~'PT'~'Rua de Leandro, lote 5, 4425-524 S. Pedro Fins'~~'Maia'~~~'PT'~'Final'~'N'
+'Dupon Biscuits'~'5002468'~'A1257'~~~'5000268'~'M574'~~~'Europe'~~'23821'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3251588912'~'3251582505'~'Industristraat 36'~~'Ichtegem'~'VWV'~'8480'~'BE'~'Industristraat 36'~~'Ichtegem'~'VWV'~'8480'~'BE'~'Industristraat 36'~~'Ichtegem'~'VWV'~'8480'~'BE'~'Final'~'N'
+'COOKIE CREATIONS'~'5001617'~'A1290'~~~'5000916'~'M575'~~~'Europe'~~'36107'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33164720055'~'33164721030'~'4 rue Henri Becquerel'~~'EAE de la Tuilerie'~~'77645'~'FR'~'4 rue Henri Becquerel'~~'EAE de la Tuilerie'~~'77645'~'FR'~'4 rue Henri Becquerel'~~'EAE de la Tuilerie'~~'77645'~'FR'~'Final'~'N'
+'Mozyrsalt'~'5002624'~'A1293'~~~'5000416'~'M576'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'Pos. Mikhalki'~~'Mozyrgomel'~~'247760'~'BY'~'Pos. Mikhalki'~~'Mozyrgomel'~~'247760'~'BY'~'Pos. Mikhalki'~~'Mozyrgomel'~~'247760'~'BY'~'Final'~'N'
+'Prolainat'~'5001622'~'A1295'~~~'5000921'~'M577'~~~'Europe'~~'44725'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33562659511'~'33562659483'~'Domaine de la Bégonnière'~'Route De Mauvezin'~'Blanquefort'~~'32270'~'FR'~'Domaine de la Bégonnière'~'Route De Mauvezin'~'Blanquefort'~~'32270'~'FR'~'Domaine de la Bégonnière'~'Route De Mauvezin'~'Blanquefort'~~'32270'~'FR'~'Final'~'N'
+'Del Monte Fresh Prepared UK Ltd'~'5001983'~'A35'~~~'5000819'~'M581'~~~'Europe'~~'38535'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441945469300'~'441945475299'~'Weasenham Lane'~~'Wisbech-Cambs'~~~'GB'~'Weasenham Lane'~~'Wisbech-Cambs'~~~'GB'~'Weasenham Lane'~~'Wisbech-Cambs'~~~'GB'~'Final'~'N'
+'Messer Croatia Plin'~'5002735'~'A564'~~~'5000523'~'M583'~~~'Europe'~~'40072'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'13350777'~'13350787'~'Industrijska 1'~~'Zapresic'~~'10290'~'HR'~'Industrijska 1'~~'Zapresic'~~'10290'~'HR'~'Industrijska 1'~~'Zapresic'~~'10290'~'HR'~'Final'~'N'
+'Mahou'~'5002341'~'A645'~~~'5000171'~'M584'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'69008147045390'~~'Avda.Rio Henares, 68.'~~'Alovera'~'GU'~'19028'~'ES'~'Avda.Rio Henares, 68.'~~'Alovera'~'GU'~'19028'~'ES'~'Avda.Rio Henares, 68.'~~'Alovera'~'GU'~'19028'~'ES'~'Final'~'N'
+'LTD Ovostar'~'5001579'~'A105'~~~'5000883'~'M588'~~~'Europe'~~'35548'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'380503522026'~~'Kolhoznaya 11'~'Kiev district, Vasil'kov region'~'Krushinka vil'~~~'UA'~'Kolhoznaya 11'~'Kiev district, Vasil'kov region'~'Krushinka vil'~~~'UA'~'Kolhoznaya 11'~'Kiev district, Vasil'kov region'~'Krushinka vil'~~~'UA'~'Final'~'N'
+'Iceberg Salat Centar d.o.o.'~'5001678'~'A57'~~~'5000966'~'M590'~~~'Europe'~~'41983'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'381112260501'~'381112260502'~'Vinogradska 40'~~'Belgrade'~~'11271'~'CS'~'Vinogradska 40'~~'Belgrade'~~'11271'~'CS'~'Vinogradska 40'~~'Belgrade'~~'11271'~'CS'~'Final'~'N'
+'Pärsons Sverige AB'~'5002604'~'A647'~~~'5000396'~'M592'~~~'Europe'~~'35495'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'46352601501'~~'Box 4064'~'Repratörsgatan 5'~'Halmstad'~~'300 04'~'SE'~'Box 4064'~'Repratörsgatan 5'~'Halmstad'~~'300 04'~'SE'~'Box 4064'~'Repratörsgatan 5'~'Halmstad'~~'300 04'~'SE'~'Final'~'N'
+'Moulin Bleu'~'5001394'~'A650'~~~~'M594'~~~'Europe'~~'25980'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0320426135'~~'Place de la Gare'~'B.P. 209'~'La Madeleine Cedex'~~'59561'~'FR'~'Place de la Gare'~'B.P. 209'~'La Madeleine Cedex'~~'59561'~'FR'~'Place de la Gare'~'B.P. 209'~'La Madeleine Cedex'~~'59561'~'FR'~'Final'~'N'
+'Gyma'~'5001388'~'A653'~~~'5000099'~'M596'~~~'Europe'~~'32986'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'684771110'~~'ZA St Anne'~~'Sorgues'~~'84700'~'FR'~'ZA St Anne'~~'Sorgues'~~'84700'~'FR'~'ZA St Anne'~~'Sorgues'~~'84700'~'FR'~'Final'~'N'
+'Resch & Frisch Franchise GmbH'~'5002462'~'A656'~~~'5000262'~'M599'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'004372422005140'~~'Schlossstraße 14'~~'Wels'~~'4606'~'AT'~'Schlossstraße 14'~~'Wels'~~'4606'~'AT'~'Schlossstraße 14'~~'Wels'~~'4606'~'AT'~'Final'~'N'
+'Caffe Ottolina'~'5001468'~'A663'~~~'5000163'~'M605'~~~'Europe'~~'44113'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'003902730032'~'00390270101226'~'Via Decemviri, 20/24'~~'Milan'~~'20137'~'IT'~'Via Decemviri, 20/24'~~'Milan'~~'20137'~'IT'~'Via Decemviri, 20/24'~~'Milan'~~'20137'~'IT'~'Final'~'N'
+'Rucont LLC'~'5001576'~'A664'~~~'5000881'~'M606'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'74962124995'~~'1a/7, st. Country'~~'Dubna'~'MOS'~~'RU'~'1a/7, st. Country'~~'Dubna'~'MOS'~~'RU'~'1a/7, st. Country'~~'Dubna'~'MOS'~~'RU'~'Final'~'N'
+'TMI Foods'~'5002376'~'A665'~~~'5000203'~'M607'~~~'Europe'~~'14357'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.tmifoods.co.uk'~'00441604587392'~'441604587392'~'Cornhill Cose'~'Lodge Farm'~'Northampton'~'NTH'~'NN5 7UE'~'GB'~'Cornhill Cose'~'Lodge Farm'~'Northampton'~'NTH'~'NN5 7UE'~'GB'~'Cornhill Cose'~'Lodge Farm'~'Northampton'~'NTH'~'NN5 7UE'~'GB'~'Final'~'N'
+'Jean Caby'~'5001620'~'A671'~~~~'M608'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0033298686868'~'0033298686899'~'B.P.80359,Lampaul Guimiliau'~~'Landivisiau Cedex'~~'29403'~'FR'~'B.P.80359,Lampaul Guimiliau'~~'Landivisiau Cedex'~~'29403'~'FR'~'B.P.80359,Lampaul Guimiliau'~~'Landivisiau Cedex'~~'29403'~'FR'~'Final'~'N'
+'ZRUD Masokombina'~'5001589'~'A666'~~~'5000890'~'M609'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'http://www.zrud.cz'~'00420461752148'~'00420461752293'~'Kamenec u Policky 300'~~'Policka'~~'57223'~'CZ'~'Kamenec u Policky 300'~~'Policka'~~'57223'~'CZ'~'Kamenec u Policky 300'~~'Policka'~~'57223'~'CZ'~'Final'~'N'
+'Vandemoortele'~'5001740'~'A668'~~~'5001019'~'M611'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'31620006863'~'310455277576'~'Molenvaart 12'~~'Brunssum'~~'6442'~'NL'~'Molenvaart 12'~~'Brunssum'~~'6442'~'NL'~'Molenvaart 12'~~'Brunssum'~~'6442'~'NL'~'Final'~'N'
+'WILD Juice B.V.'~'5002477'~'A496'~~~'5000277'~'M613'~~~'Europe'~~'24173'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0031204807311'~~'Capriweg 4'~~'Amsterdam'~'NH'~'1044 AL'~'NL'~'Capriweg 4'~~'Amsterdam'~'NH'~'1044 AL'~'NL'~'Capriweg 4'~~'Amsterdam'~'NH'~'1044 AL'~'NL'~'Final'~'N'
+'Gebrüder Bagusat GmbH & Co. KG'~'5001410'~'A672'~~~'5000117'~'M615'~~~'Europe'~~'10614'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'17940'~'0049817163271'~'Böhmerwaldstr. 47a'~~'Geretsried'~~'82538'~'DE'~'Böhmerwaldstr. 47a'~~'Geretsried'~~'82538'~'DE'~'Böhmerwaldstr. 47a'~~'Geretsried'~~'82538'~'DE'~'Final'~'N'
+'Carpigiani ALI Group spa'~'5001650'~'A1352'~~~'5000940'~'M618'~~~'North America'~~'35067'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Equipment'~~'3193688130'~'39051732178'~'via Emilia, 45'~~'Anzola Emilia'~'BO'~'40011'~'IT'~'via Emilia, 45'~~'Anzola Emilia'~'BO'~'40011'~'IT'~'via Emilia, 45'~~'Anzola Emilia'~'BO'~'40011'~'IT'~'Final'~'N'
+'Manitowoc Beverage Systems'~'5003050'~'A1371'~~~~'M625'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Equipment'~~'0018122467000'~'0018122467024'~'2100 Future Drive'~~'Sellersburg'~'IN'~'47172'~'US'~'2100 Future Drive'~~'Sellersburg'~'IN'~'47172'~'US'~'2100 Future Drive'~~'Sellersburg'~'IN'~'47172'~'US'~'Final'~'N'
+'Manitowoc Ice Inc'~'5003049'~'A1370'~~~~'M625'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Equipment'~~'0019206820161'~'0019206837589'~'2110 South 26th Street'~'P O Box 1720'~'Manitowoc'~'WI'~~'US'~'2110 South 26th Street'~'P O Box 1720'~'Manitowoc'~'WI'~~'US'~'2110 South 26th Street'~'P O Box 1720'~'Manitowoc'~'WI'~~'US'~'Final'~'N'
+'Taylor Company'~'5003058'~'A1378'~~~'5000696'~'M629'~~~'North America'~~'14981'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Equipment'~~'0018156248333'~'0018156248002'~'750 North Blackhawk Boulevard'~~'Rockton'~'IL'~'61072'~'US'~'750 North Blackhawk Boulevard'~~'Rockton'~'IL'~'61072'~'US'~'750 North Blackhawk Boulevard'~~'Rockton'~'IL'~'61072'~'US'~'Final'~'N'
+'Farmer Brothers Coffee Company'~'5001781'~'A1382'~~~'5001053'~'M631'~~~'North America'~~'27190'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Equipment'~~'0018007352878'~'0013107875246'~'235 N. Norwood'~~'Houston'~'TX'~'77011'~'US'~'235 N. Norwood'~~'Houston'~'TX'~'77011'~'US'~'235 N. Norwood'~~'Houston'~'TX'~'77011'~'US'~'Final'~'N'
+'Iniciativas Carnicas'~'5001773'~'A674'~~~'5001046'~'M633'~~~'Europe'~~'25084'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'34918489611'~'34918489595'~'Mercamadrid Crtra Vallecas-Villaverde km 3,8'~~'Madrid'~'M'~'28053'~'ES'~'Mercamadrid Crtra Vallecas-Villaverde km 3,8'~~'Madrid'~'M'~'28053'~'ES'~'Mercamadrid Crtra Vallecas-Villaverde km 3,8'~~'Madrid'~'M'~'28053'~'ES'~'Final'~'N'
+'SA Gers'en, pierrot gourmand'~'5002728'~'A7'~~~'5000516'~'M648'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33555919100'~'335559191009'~'Les Escures'~~'Altillac'~~'19120'~'FR'~'Les Escures'~~'Altillac'~~'19120'~'FR'~'Les Escures'~~'Altillac'~~'19120'~'FR'~'Final'~'N'
+'Montreal Bakery'~'5002094'~'A1237'~~~'5000178'~'M652'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'5142596921'~~'3055 Viau Street'~~'Montreal'~'QC'~~'CA'~'3055 Viau Street'~~'Montreal'~'QC'~~'CA'~'3055 Viau Street'~~'Montreal'~'QC'~~'CA'~'Final'~'N'
+'Paulig Export Ltd'~'5002699'~'A1308'~~~'5000617'~'M655'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'79105371041'~~'Complex 2, Industrial Zone, Borolevo-2, Burashevo Village, Kalininsky District'~~'Tver'~~'170540'~'RU'~'Complex 2, Industrial Zone, Borolevo-2, Burashevo Village, Kalininsky District'~~'Tver'~~'170540'~'RU'~'Complex 2, Industrial Zone, Borolevo-2, Burashevo Village, Kalininsky District'~~'Tver'~~'170540'~'RU'~'Final'~'N'
+'Dew Valley Foods Ltd'~'5001770'~'A1305'~~~'5001043'~'M656'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.dewvalley.com'~'35350446110'~~'Holycross Road, '~~'Thurles'~'TA'~~'IE'~'Holycross Road, '~~'Thurles'~'TA'~~'IE'~'Holycross Road, '~~'Thurles'~'TA'~~'IE'~'Final'~'N'
+'Recla Srl'~'5001691'~'A1307'~~~'5000979'~'M657'~~~'Europe'~~'44765'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'39473737300'~'39473621699'~'Zona Produttiva 2'~'Frazione Vezzano'~'Silandro'~~'39028'~'IT'~'Zona Produttiva 2'~'Frazione Vezzano'~'Silandro'~~'39028'~'IT'~'Zona Produttiva 2'~'Frazione Vezzano'~'Silandro'~~'39028'~'IT'~'Final'~'N'
+'Fruite'~'5001779'~'A1311'~~~'5001051'~'M660'~~~'Europe'~~'10797'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0033450032146'~'0033450034215'~'ZI Les Afforêts 74800 La ROCHE SUR FORON'~~'La ROCHE SUR FORON'~~~'FR'~'ZI Les Afforêts 74800 La ROCHE SUR FORON'~~'La ROCHE SUR FORON'~~~'FR'~'ZI Les Afforêts 74800 La ROCHE SUR FORON'~~'La ROCHE SUR FORON'~~~'FR'~'Final'~'N'
+'Kay Chemical Company'~'5003044'~'A1653'~~~'5000689'~'M663'~~~'North America'~~'25510'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Operations Supplies'~~'0013366687290'~'0013366689763'~'8300 Capital Drive'~~'Greensboro'~'NC'~'27409'~'US'~'8300 Capital Drive'~~'Greensboro'~'NC'~'27409'~'US'~'8300 Capital Drive'~~'Greensboro'~'NC'~'27409'~'US'~'Final'~'N'
+'Cargill Meats'~'5001852'~'A29'~~~'5000856'~'M70'~~~'Europe'~~'26955'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441432362000'~'01432362588'~'Yazor Road'~~'Hereford'~'HRT'~~'GB'~'Yazor Road'~~'Hereford'~'HRT'~~'GB'~'Yazor Road'~~'Hereford'~'HRT'~~'GB'~'Final'~'N'
+'Cargill NV'~'5001850'~'A178'~~~'5000856'~'M70'~~~'Europe'~~'34520'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3251332455'~~'Prins albertlaan 12'~~'Izegem'~'VWV'~'8870'~'BE'~'Prins albertlaan 12'~~'Izegem'~'VWV'~'8870'~'BE'~'Prins albertlaan 12'~~'Izegem'~'VWV'~'8870'~'BE'~'Final'~'N'
+'Cargill Palm Products Sdn. Bhd.'~'5008986'~'A179'~~~'5000856'~'M70'~~~'APMEA'~~'32401'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'60331653888'~'60331686546'~'167, JALAN KEM'~'42000 PORT KLANG'~'PORT KLANG'~'10'~~'MY'~'167, JALAN KEM'~'42000 PORT KLANG'~'PORT KLANG'~'10'~~'MY'~'167, JALAN KEM'~'42000 PORT KLANG'~'PORT KLANG'~'10'~~'MY'~'Final'~'N'
+'Cargill Inc'~'5001860'~'A345'~~~'5000856'~'M70'~~~'North America'~~'34350'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0017144496700'~'0017148718058'~'560 North Gilbert Street'~~'Fullerton'~'CA'~'92833'~'US'~'560 North Gilbert Street'~~'Fullerton'~'CA'~'92833'~'US'~'560 North Gilbert Street'~~'Fullerton'~'CA'~'92833'~'US'~'Final'~'N'
+'Cargill Value Added Meats Canada'~'5001858'~'A22'~~~'5000856'~'M70'~~~'North America'~~'22987'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'17809626240'~'17809620862'~'240 Diamond Avenue'~~'Spruce Grove'~'AB'~~'CA'~'240 Diamond Avenue'~~'Spruce Grove'~'AB'~~'CA'~'240 Diamond Avenue'~~'Spruce Grove'~'AB'~~'CA'~'Final'~'N'
+'Cargill Kitchen Solutions Inc'~'5001537'~'A817'~~~'5000856'~'M70'~~~'North America'~~'25665'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'206 WEST 4TH STREET'~~'MONTICELLO'~'MN'~'55362'~'US'~'206 WEST 4TH STREET'~~'MONTICELLO'~'MN'~'55362'~'US'~'206 WEST 4TH STREET'~~'MONTICELLO'~'MN'~'55362'~'US'~'Final'~'N'
+'Cargill Value Added Meats Canada'~'5001863'~'A80'~~~'5000856'~'M70'~~~'North America'~~'36821'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0015195434996'~'0015194533390'~'10 Cuddy Boulevard'~~'London'~'ON'~~'CA'~'10 Cuddy Boulevard'~~'London'~'ON'~~'CA'~'10 Cuddy Boulevard'~~'London'~'ON'~~'CA'~'Final'~'N'
+'Cargill Inc/Daybreak Vincent'~'5001536'~'A719'~~~'5000856'~'M70'~~~'North America'~~'10549'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'3159 BUCHANAN AVENUE'~~'EAGLE GROVE'~'IA'~'50533'~'US'~'3159 BUCHANAN AVENUE'~~'EAGLE GROVE'~'IA'~'50533'~'US'~'3159 BUCHANAN AVENUE'~~'EAGLE GROVE'~'IA'~'50533'~'US'~'Final'~'N'
+'Cargil Meats'~'5001849'~'A30'~~~'5000856'~'M70'~~~'Europe'~~'46141'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441902629000'~'441902623100'~'Balliol Business Park, Bilbrook'~~'Wolverhampton'~~~'GB'~'Balliol Business Park, Bilbrook'~~'Wolverhampton'~~~'GB'~'Balliol Business Park, Bilbrook'~~'Wolverhampton'~~~'GB'~'Final'~'N'
+'Cargill Meats'~'5008988'~'A611'~~~'5000856'~'M70'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'6644446900'~'6636351179'~'44, Moo 5, Chokchai-Khonburi Rd., Kratok, Chokchai, Nakhonratchasima, 30190'~~'Chokchai'~~'30190'~'TH'~'44, Moo 5, Chokchai-Khonburi Rd., Kratok, Chokchai, Nakhonratchasima, 30190'~~'Chokchai'~~'30190'~'TH'~'44, Moo 5, Chokchai-Khonburi Rd., Kratok, Chokchai, Nakhonratchasima, 30190'~~'Chokchai'~~'30190'~'TH'~'Final'~'N'
+'Cargill Inc - Herbruck Poultry Ranch Inc'~'5001881'~'A55'~~~'5000856'~'M70'~~~'North America'~~'10536'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'16166429421'~'16166429826'~'478 East Portland Road'~~'Ionia'~'MI'~'48881'~'US'~'478 East Portland Road'~~'Ionia'~'MI'~'48881'~'US'~'478 East Portland Road'~~'Ionia'~'MI'~'48881'~'US'~'Final'~'N'
+'Best Diamond Packaging LLC'~'5003262'~'A1554'~~~'5000795'~'M732'~~~'North America'~~'49496'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Paper/Packaging'~'www.bestdiamondpkg.com'~'0012522082033'~'0012522082034'~'1447 Enterprise Boulevard'~~'Kinston'~'NC'~'28405'~'US'~'1447 Enterprise Boulevard'~~'Kinston'~'NC'~'28405'~'US'~'1447 Enterprise Boulevard'~~'Kinston'~'NC'~'28405'~'US'~'Final'~'N'
+'International Drive'~'5003062'~'A1604'~~~'5000700'~'M755'~~~'North America'~~'26432'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Paper/Packaging'~~'0012177742176'~~'500 Dacey Drive'~~'Shelbyville'~'IL'~'62565'~'US'~'500 Dacey Drive'~~'Shelbyville'~'IL'~'62565'~'US'~'500 Dacey Drive'~~'Shelbyville'~'IL'~'62565'~'US'~'Final'~'N'
+'GSF Australia Pty Ltd'~'5001999'~'A1692'~~~'5000037'~'M77'~~~'APMEA'~~'34482'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61894551780'~'61894553251'~'Coolchain Warehouse S1, Canning Vale Markets'~'280 Bannister Road'~'Canning Vale'~~~'AU'~'Coolchain Warehouse S1, Canning Vale Markets'~'280 Bannister Road'~'Canning Vale'~~~'AU'~'Coolchain Warehouse S1, Canning Vale Markets'~'280 Bannister Road'~'Canning Vale'~~~'AU'~'Final'~'N'
+'Golden State Foods GSF US DC 74'~'5002006'~'A492'~~~'5000037'~'M77'~~~'North America'~~'00074'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Distribution Center'~'12-12-2013'~~'Food'~~'0012538633800'~'0012538633974'~'1409 Puyallup Street'~~'Sumner'~'WA'~'98390'~'US'~'1409 Puyallup Street'~~'Sumner'~'WA'~'98390'~'US'~'1409 Puyallup Street'~~'Sumner'~'WA'~'98390'~'US'~'Final'~'N'
+'Golden State Foods GSF US DC 75'~'5002007'~'A494'~~~'5000037'~'M77'~~~'North America'~~'00075'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Distribution Center'~'12-12-2013'~~'Food'~~'0015032834400'~'0015032835577'~'9310 North Harborgate Street'~~'Portland'~'OR'~'97203'~'US'~'9310 North Harborgate Street'~~'Portland'~'OR'~'97203'~'US'~'9310 North Harborgate Street'~~'Portland'~'OR'~'97203'~'US'~'Final'~'N'
+'Golden State Foods GSF US DC 70'~'5002004'~'A493'~~~'5000037'~'M77'~~~'North America'~~'00070'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Distribution Center'~'12-12-2013'~~'Food'~~'0019093486000'~'0019095985719'~'21489 Baker Parkway'~~'City of Industry'~'CA'~'91789'~'US'~'21489 Baker Parkway'~~'City of Industry'~'CA'~'91789'~'US'~'21489 Baker Parkway'~~'City of Industry'~'CA'~'91789'~'US'~'Final'~'N'
+'Tyson Foods Inc'~'5001179'~'A463'~~~'5000005'~'M78'~~~'North America'~~'28360'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0016016294703'~'16016313615'~'1785 Interplex Circle'~~'Vicksburg'~'MS'~'39183'~'US'~'1785 Interplex Circle'~~'Vicksburg'~'MS'~'39183'~'US'~'1785 Interplex Circle'~~'Vicksburg'~'MS'~'39183'~'US'~'Final'~'N'
+'Ferrero oHG'~'5001425'~'A1663'~~~'5000124'~'M789'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4964280'~~'Rheinstrasse 12'~~'Stadtallendorf'~'HE'~'35260'~'DE'~'Rheinstrasse 12'~~'Stadtallendorf'~'HE'~'35260'~'DE'~'Rheinstrasse 12'~~'Stadtallendorf'~'HE'~'35260'~'DE'~'Final'~'N'
+'Rieber & Son Holland B.V.'~'5001661'~'A1672'~~~'5000950'~'M793'~~~'Europe'~~'34937'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'003116666886'~'0031166663654'~'Nijverheidsweg 5'~~'St.Maartensdijk'~'ZE'~'4695 RC'~'NL'~'Nijverheidsweg 5'~~'St.Maartensdijk'~'ZE'~'4695 RC'~'NL'~'Nijverheidsweg 5'~~'St.Maartensdijk'~'ZE'~'4695 RC'~'NL'~'Final'~'N'
+'Vegenat'~'5001475'~'A1673'~~~'5000168'~'M794'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.vegenat.com'~'34924473310'~'34924474203'~'Ctra. EX-209, km.24,9'~~'Pueblonuevo del Guadiana'~'BA'~'6184'~'ES'~'Ctra. EX-209, km.24,9'~~'Pueblonuevo del Guadiana'~'BA'~'6184'~'ES'~'Ctra. EX-209, km.24,9'~~'Pueblonuevo del Guadiana'~'BA'~'6184'~'ES'~'Final'~'N'
+'McEntire Produce'~'5003269'~'A66'~~~'5000801'~'M80'~~~'North America'~~'21778'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'18037993388'~'18032543540'~'2040 American Italian Way'~~'Columbia'~'SC'~'29209'~'US'~'2040 American Italian Way'~~'Columbia'~'SC'~'29209'~'US'~'2040 American Italian Way'~~'Columbia'~'SC'~'29209'~'US'~'Final'~'N'
+'George Weston Foods Limited'~'5001296'~'A144'~~~'5000059'~'M809'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0731393904'~~'64 Richards Road'~~'Castlemaine'~'VIC'~'3450'~'AU'~'64 Richards Road'~~'Castlemaine'~'VIC'~'3450'~'AU'~'64 Richards Road'~~'Castlemaine'~'VIC'~'3450'~'AU'~'Final'~'N'
+'Smithfield'~'5003117'~'A89'~~~'5000759'~'M81'~~~'North America'~~'30930'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0017573574321'~'0017573571587'~'601 North Church Street'~~'Smithfield'~'VA'~'23430'~'US'~'601 North Church Street'~~'Smithfield'~'VA'~'23430'~'US'~'601 North Church Street'~~'Smithfield'~'VA'~'23430'~'US'~'Final'~'N'
+'North Side Foods Corp - Patrick Cudahy Inc'~'5003176'~'A77'~~~'5000759'~'M81'~~~'North America'~~'40278'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'14147442000'~'14147444210'~'One Sweet Apple-wood Lane'~~'Cudahy'~'WI'~'53110'~'US'~'One Sweet Apple-wood Lane'~~'Cudahy'~'WI'~'53110'~'US'~'One Sweet Apple-wood Lane'~~'Cudahy'~'WI'~'53110'~'US'~'Final'~'N'
+'Ironside Management Services Pty Limited trading as Twelve Oaks Poultry Farm'~'5001331'~'A1698'~~~'5000073'~'M813'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61747740158'~'61747891802'~'Lot 2 Allambie Lane'~'Kelso'~'Townsville'~~~'AU'~'Lot 2 Allambie Lane'~'Kelso'~'Townsville'~~~'AU'~'Lot 2 Allambie Lane'~'Kelso'~'Townsville'~~~'AU'~'Final'~'N'
+'Peterson Farms Inc'~'5001608'~'A79'~~~'5000906'~'M82'~~~'North America'~~'11836'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'1 2318617101'~'12318615350'~'3104 W. Baseline Road'~'P.O. BOX 95'~'Shelby'~'MI'~'49455'~'US'~'3104 W. Baseline Road'~'P.O. BOX 95'~'Shelby'~'MI'~'49455'~'US'~'3104 W. Baseline Road'~'P.O. BOX 95'~'Shelby'~'MI'~'49455'~'US'~'Final'~'N'
+'Pace Farm'~'5001280'~'A1750'~~~'5000054'~'M830'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'1416 George Booth Drive'~~'Buchanan'~'NSW'~~'AU'~'1416 George Booth Drive'~~'Buchanan'~'NSW'~~'AU'~'1416 George Booth Drive'~~'Buchanan'~'NSW'~~'AU'~'Final'~'N'
+'Erlenbacher Backwaren'~'5002204'~'A1674'~~~~'M840'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4906152803282'~'49061528037282'~'Wasserweg 39'~~'Groß-Gerau'~~'64521'~'DE'~'Wasserweg 39'~~'Groß-Gerau'~~'64521'~'DE'~'Wasserweg 39'~~'Groß-Gerau'~~'64521'~'DE'~'Final'~'N'
+'HoWe Wurstwaren KG'~'5001657'~'A1782'~~~'5000946'~'M846'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0049911817666222'~'00499116492294'~'Regenstraße 1'~~'Nuremberg'~'BY'~'90451'~'DE'~'Regenstraße 1'~~'Nuremberg'~'BY'~'90451'~'DE'~'Regenstraße 1'~~'Nuremberg'~'BY'~'90451'~'DE'~'Final'~'N'
+'Ostificio Prealpino'~'5001467'~'A1776'~~~'5000162'~'M850'~~~'Europe'~~'46116'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0039035255275'~~'Via Orelli, 6'~~'Bergamo'~~'24128'~'IT'~'Via Orelli, 6'~~'Bergamo'~~'24128'~'IT'~'Via Orelli, 6'~~'Bergamo'~~'24128'~'IT'~'Final'~'N'
+'Rijnhout Onion Products BV'~'5002962'~'A1777'~~~'5000649'~'M851'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'31488488988'~'31488488972'~'Nisseweg 8'~~'Kruiningen'~'ZE'~'4416 PK'~'NL'~'Nisseweg 8'~~'Kruiningen'~'ZE'~'4416 PK'~'NL'~'Nisseweg 8'~~'Kruiningen'~'ZE'~'4416 PK'~'NL'~'Final'~'N'
+'Veszprémtej Rt'~'5002579'~'A1790'~~~'5000371'~'M854'~~~'Europe'~~'33038'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.veszpremtej.hu'~'003688577800'~'003688577889'~'KISTO U. 9.'~~'VESZPREM'~'VE'~'8200'~'HU'~'KISTO U. 9.'~~'VESZPREM'~'VE'~'8200'~'HU'~'KISTO U. 9.'~~'VESZPREM'~'VE'~'8200'~'HU'~'Final'~'N'
+'Taylor Farms'~'5003189'~'A108'~~~'5000761'~'M86'~~~'North America'~~'23535'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'19287262601'~'19283143504'~'10241 South Avenue'~'#4E'~'Yuma'~'AZ'~'85365'~'US'~'10241 South Avenue'~'#4E'~'Yuma'~'AZ'~'85365'~'US'~'10241 South Avenue'~'#4E'~'Yuma'~'AZ'~'85365'~'US'~'Final'~'N'
+'Taylor Farms Colorado'~'5003195'~'A138'~~~'5000761'~'M86'~~~'North America'~~'22978'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0017196330297'~'0017196331008'~'890 N. Newport Road'~~'Colorado Springs'~'CO'~'80916'~'US'~'890 N. Newport Road'~~'Colorado Springs'~'CO'~'80916'~'US'~'890 N. Newport Road'~~'Colorado Springs'~'CO'~'80916'~'US'~'Final'~'N'
+'Taylor Farms-Tracy - West Valpico Road'~'5003192'~'A1171'~~~'5000761'~'M86'~~~'North America'~~'29269'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'2093211112'~'12098334525'~'100 West Valpico Road'~'Suite A'~'Tracy'~'CA'~'95376'~'US'~'100 West Valpico Road'~'Suite A'~'Tracy'~'CA'~'95376'~'US'~'100 West Valpico Road'~'Suite A'~'Tracy'~'CA'~'95376'~'US'~'Final'~'N'
+'Taylor Farms-USA'~'5003191'~'A1778'~~~'5000761'~'M86'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'8319025307'~~'1400 Schillings Place'~~'Salinas'~'CA'~'93901'~'US'~'1400 Schillings Place'~~'Salinas'~'CA'~'93901'~'US'~'1400 Schillings Place'~~'Salinas'~'CA'~'93901'~'US'~'Final'~'N'
+'LLC ''Confectionery House Shantil'''~'5002934'~'A1807'~~~'5000629'~'M909'~~~'Europe'~~'24953'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'00380447641453'~'00380447641453'~'Parhomenko 24/102'~~'Barishevka'~~'7500'~'UA'~'Parhomenko 24/102'~~'Barishevka'~~'7500'~'UA'~'Parhomenko 24/102'~~'Barishevka'~~'7500'~'UA'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Inalca Spa'~'5001457'~'A58'~~~'5000154'~'M92'~~~'Europe'~~'47844'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'390597555111'~'39059755519'~'Via Spilamberto 30/C'~~'Castelvetro'~'MO'~'41014'~'IT'~'Via Spilamberto 30/C'~~'Castelvetro'~'MO'~'41014'~'IT'~'Via Spilamberto 30/C'~~'Castelvetro'~'MO'~'41014'~'IT'~'Final'~'N'
+'Läntmannen Danpo A/S'~'5002556'~'A61'~~~'5000995'~'M93'~~~'Europe'~~'27409'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4572115555'~'4572115556'~'Aagade 2, Farre'~~'Give'~~'7323'~'DK'~'Aagade 2, Farre'~~'Give'~~'7323'~'DK'~'Aagade 2, Farre'~~'Give'~~'7323'~'DK'~'Final'~'N'
+'Lantmannen Unibake'~'5002116'~'A135'~~~'5000995'~'M93'~~~'Europe'~~'31791'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'74952586156'~~'Kasimovskoye sosse, 34 '~~'Yegorievsk, Moscow Region '~~'140304'~'RU'~'Kasimovskoye sosse, 34 '~~'Yegorievsk, Moscow Region '~~'140304'~'RU'~'Kasimovskoye sosse, 34 '~~'Yegorievsk, Moscow Region '~~'140304'~'RU'~'Final'~'N'
+'Nortura'~'5002746'~'A73'~~~'5000532'~'M94'~~~'Europe'~~'39770'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4761286400'~'4761286401'~'Industrigata 50'~~'Lillehammer'~~'2601'~'NO'~'Industrigata 50'~~'Lillehammer'~~'2601'~'NO'~'Industrigata 50'~~'Lillehammer'~~'2601'~'NO'~'Final'~'N'
+'Pride Pak Canada Ltd'~'5003015'~'A109'~~~'5000675'~'M96'~~~'North America'~~'47518'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'19058288280'~'19058288201'~'6768 Financial Drive'~~'Mississauga'~'ON'~~'CA'~'6768 Financial Drive'~~'Mississauga'~'ON'~~'CA'~'6768 Financial Drive'~~'Mississauga'~'ON'~~'CA'~'Final'~'N'
+'Pride Pak Newfoundland Ltd'~'5003014'~'A81'~~~'5000675'~'M96'~~~'North America'~~'28294'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'17097828000'~'19058288201'~'107 McNamara Drive'~~'Paradise'~'NL'~~'CA'~'107 McNamara Drive'~~'Paradise'~'NL'~~'CA'~'107 McNamara Drive'~~'Paradise'~'NL'~~'CA'~'Final'~'N'
+'Karlshamns'~'5002602'~'A150'~~~'5000394'~'M105'~~~'Europe'~~'39185'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4645482000'~~'Väastra Kajen'~~'Karlshamns'~~'37482'~'SE'~'Väastra Kajen'~~'Karlshamns'~~'37482'~'SE'~'Väastra Kajen'~~'Karlshamns'~~'37482'~'SE'~'Final'~'N'
+'AHB'~'5002443'~'A153'~~~'5000246'~'M112'~~~'Europe'~~'45595'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'43226261333'~~'McDonald's Strasse 2'~~'Korneuburg'~~'2100'~'AT'~'McDonald's Strasse 2'~~'Korneuburg'~~'2100'~'AT'~'McDonald's Strasse 2'~~'Korneuburg'~~'2100'~'AT'~'Final'~'N'
+'East Balt Bakery'~'5001987'~'A223'~~~'5000669'~'M116'~~~'Europe'~~'13654'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33169253400'~~'ZI des radars, Square Steve Calvert, 22 rue Condorcet'~~'Fleury-Merogis'~~'91700'~'FR'~'ZI des radars, Square Steve Calvert, 22 rue Condorcet'~~'Fleury-Merogis'~~'91700'~'FR'~'ZI des radars, Square Steve Calvert, 22 rue Condorcet'~~'Fleury-Merogis'~~'91700'~'FR'~'Final'~'N'
+'East Balt Baker'~'5001988'~'A224'~~~'5000669'~'M116'~~~'Europe'~~'36756'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'39598170701'~~'Via Aldo Moro 25'~~'Bomporto'~'MO'~'41030'~'IT'~'Via Aldo Moro 25'~~'Bomporto'~'MO'~'41030'~'IT'~'Via Aldo Moro 25'~~'Bomporto'~'MO'~'41030'~'IT'~'Final'~'N'
+'HAVI Lojistik'~'5008971'~'A655'~~~'5000669'~'M116'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'9002626588639'~'902626482578'~'Cumhuriyet Mah.'~~'Sekerpinar '~'41'~~'TR'~'Cumhuriyet Mah.'~~'Sekerpinar '~'41'~~'TR'~'Cumhuriyet Mah.'~~'Sekerpinar '~'41'~~'TR'~'Final'~'N'
+'East Balt Bakery'~'5001991'~'A526'~~~'5000669'~'M116'~~~'Europe'~~'11798'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0442390730'~~'495, rue Henri Delaunay'~~'Aix en Provence'~~'13290'~'FR'~'495, rue Henri Delaunay'~~'Aix en Provence'~~'13290'~'FR'~'495, rue Henri Delaunay'~~'Aix en Provence'~~'13290'~'FR'~'Final'~'N'
+'East Balt Bakery'~'5001990'~'A225'~~~'5000669'~'M116'~~~'Europe'~~'45168'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'74957880102'~'74957556611'~'Novoorlovskaya, 3, build. 1'~~'Moscow'~~'119633'~'RU'~'Novoorlovskaya, 3, build. 1'~~'Moscow'~~'119633'~'RU'~'Novoorlovskaya, 3, build. 1'~~'Moscow'~~'119633'~'RU'~'Final'~'N'
+'LambWeston'~'5001955'~'A1652'~~~'5000714'~'M133'~~~'Europe'~~'14229'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.lambweston.com'~'4401945468800'~'4401945468841'~'Wesenham Lane Industrial Estate'~~'Wisbech'~'CAM'~'PE13 2RN '~'GB'~'Wesenham Lane Industrial Estate'~~'Wisbech'~'CAM'~'PE13 2RN '~'GB'~'Wesenham Lane Industrial Estate'~~'Wisbech'~'CAM'~'PE13 2RN '~'GB'~'Final'~'N'
+'Frisch & Frost GmbH'~'5002453'~'A247'~~~'5000714'~'M133'~~~'Europe'~~'16449'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'43295223350'~~'Muhlenring 20'~~'Hollabrunn'~~'2020'~'AT'~'Muhlenring 20'~~'Hollabrunn'~~'2020'~'AT'~'Muhlenring 20'~~'Hollabrunn'~~'2020'~'AT'~'Final'~'N'
+'Vogel Popcorn Company'~'5003091'~'A891'~~~'5000714'~'M133'~~~'North America'~~'29345'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'2201 WASHINGTON STREET'~~'HAMBURG'~'IA'~'51640'~'US'~'2201 WASHINGTON STREET'~~'HAMBURG'~'IA'~'51640'~'US'~'2201 WASHINGTON STREET'~~'HAMBURG'~'IA'~'51640'~'US'~'Final'~'N'
+'Lamb Weston '~'5001952'~'A189'~~~'5000714'~'M133'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.conagrafoods.com'~'5097362512'~~'1005 E St.'~~'Quincy'~'WA'~'98848'~'US'~'1005 E St.'~~'Quincy'~'WA'~'98848'~'US'~'1005 E St.'~~'Quincy'~'WA'~'98848'~'US'~'Final'~'N'
+'crudi'~'5001530'~'A34'~~~'5000097'~'M134'~~~'Europe'~~'39445'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33468282828'~'33468284950'~'Route de sainte Marie'~~'Torreilles'~'66'~'66440'~'FR'~'Route de sainte Marie'~~'Torreilles'~'66'~'66440'~'FR'~'Route de sainte Marie'~~'Torreilles'~'66'~'66440'~'FR'~'Final'~'N'
+'Bakkavor SOGESOL SA'~'5001532'~'A114'~~~'5000097'~'M134'~~~'Europe'~~'39445'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'34968336020'~~'Paraje Molino del Agua'~~'Torre Pacheco'~'MU'~'30700'~'ES'~'Paraje Molino del Agua'~~'Torre Pacheco'~'MU'~'30700'~'ES'~'Paraje Molino del Agua'~~'Torre Pacheco'~'MU'~'30700'~'ES'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Espersen'~'5002558'~'A229'~~~'5000351'~'M140'~~~'Europe'~~'39263'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4556965311'~~'Strandgade 8'~~'Hasle'~~'3790'~'DK'~'Strandgade 8'~~'Hasle'~~'3790'~'DK'~'Strandgade 8'~~'Hasle'~~'3790'~'DK'~'Final'~'N'
+'UAB Espersen Lithuania'~'5002559'~'A1213'~~~'5000351'~'M140'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'37046347244'~~'Pramones Gatve 15'~~'Klaipeda'~~'LT-5800'~'LT'~'Pramones Gatve 15'~~'Klaipeda'~~'LT-5800'~'LT'~'Pramones Gatve 15'~~'Klaipeda'~~'LT-5800'~'LT'~'Final'~'N'
+'Findus Norge AS avd.'~'5002748'~'A233'~~~'5000533'~'M142'~~~'Europe'~~'23274'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4733376500'~~'Notteroyveien 1'~~'Tonsberg'~~'3127'~'NO'~'Notteroyveien 1'~~'Tonsberg'~~'3127'~'NO'~'Notteroyveien 1'~~'Tonsberg'~~'3127'~'NO'~'Final'~'N'
+'Florin AG'~'5002512'~'A235'~~~'5000308'~'M143'~~~'Europe'~~'34378'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41614662231'~~'Hofackerstrasse 54'~~'Muttenz'~~'4132'~'CH'~'Hofackerstrasse 54'~~'Muttenz'~~'4132'~'CH'~'Hofackerstrasse 54'~~'Muttenz'~~'4132'~'CH'~'Final'~'N'
+'Fortisa AG'~'5002513'~'A236'~~~'5000309'~'M144'~~~'Europe'~~'26381'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41326868787'~~'Langfeldstr. 22'~~'Zuchwil'~~'4528'~'CH'~'Langfeldstr. 22'~~'Zuchwil'~~'4528'~'CH'~'Langfeldstr. 22'~~'Zuchwil'~~'4528'~'CH'~'Final'~'N'
+'ARYZTA'~'5001807'~'A243'~~~'5000827'~'M145'~~~'APMEA'~~'21129'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61298214744'~'61298214033'~'Gate 2'~'Homepride Avenue'~'Liverpool'~'NSW'~'2170'~'AU'~'Gate 2'~'Homepride Avenue'~'Liverpool'~'NSW'~'2170'~'AU'~'Gate 2'~'Homepride Avenue'~'Liverpool'~'NSW'~'2170'~'AU'~'Final'~'N'
+'FSB'~'5001819'~'A1791'~~~'5000827'~'M145'~~~'Europe'~~'29270'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'48227743408'~~'Piekarnicza 2'~~'Strzegom'~~'58-150'~'PL'~'Piekarnicza 2'~~'Strzegom'~~'58-150'~'PL'~'Piekarnicza 2'~~'Strzegom'~~'58-150'~'PL'~'Final'~'N'
+'FSB Industrial Ltda'~'5009011'~'A598'~~~'5000827'~'M145'~~~'Latin America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'551128794920'~'6494440371'~'Av. das Comunicações, 333'~~'Osaco'~'SP'~'06278-900'~'BR'~'Av. das Comunicações, 333'~~'Osaco'~'SP'~'06278-900'~'BR'~'Av. das Comunicações, 333'~~'Osaco'~'SP'~'06278-900'~'BR'~'Final'~'N'
+'ARYZTA'~'5003301'~'A244'~~~'5000827'~'M145'~~~'APMEA'~~'20351'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61298214744'~'61387876499'~'26 National Drive'~~'Dandenong South'~'VIC'~'3175'~'AU'~'26 National Drive'~~'Dandenong South'~'VIC'~'3175'~'AU'~'26 National Drive'~~'Dandenong South'~'VIC'~'3175'~'AU'~'Final'~'N'
+'FSB'~'5001813'~'A250'~~~'5000827'~'M145'~~~'Europe'~~'23171'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'34918841250'~'34918845774'~'Alcala a Daganzo Km 8,800'~~'Daganzo de Arriba (Madrid)'~'M'~'28814'~'ES'~'Alcala a Daganzo Km 8,800'~~'Daganzo de Arriba (Madrid)'~'M'~'28814'~'ES'~'Alcala a Daganzo Km 8,800'~~'Daganzo de Arriba (Madrid)'~'M'~'28814'~'ES'~'Final'~'N'
+'FSB'~'5001812'~'A248'~~~'5000827'~'M145'~~~'Europe'~~'12330'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'34937787110'~'34937786799'~'Ctra.C-55 Abrea Manresa Km 4.5,Pol Ind.'~~'Olesa de Montserrat'~'B'~'8640'~'ES'~'Ctra.C-55 Abrea Manresa Km 4.5,Pol Ind.'~~'Olesa de Montserrat'~'B'~'8640'~'ES'~'Ctra.C-55 Abrea Manresa Km 4.5,Pol Ind.'~~'Olesa de Montserrat'~'B'~'8640'~'ES'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'FSB'~'5001815'~'A251'~~~'5000827'~'M145'~~~'Europe'~~'20104'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4640596959'~'4640596959'~'Vevaxelgatan 14'~~'Malmo'~'M'~'SE-212-41'~'SE'~'Vevaxelgatan 14'~~'Malmo'~'M'~'SE-212-41'~'SE'~'Vevaxelgatan 14'~~'Malmo'~'M'~'SE-212-41'~'SE'~'Final'~'N'
+'FSB'~'5001811'~'A249'~~~'5000827'~'M145'~~~'Europe'~~'17333'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'492065776560'~'49206577657722'~'Hochstrasse 177'~'D-47228 Duisburg'~'Duisburg'~~'47228'~'DE'~'Hochstrasse 177'~'D-47228 Duisburg'~'Duisburg'~~'47228'~'DE'~'Hochstrasse 177'~'D-47228 Duisburg'~'Duisburg'~~'47228'~'DE'~'Final'~'N'
+'Hiestand Deutschland GmbH'~'5001817'~'A1670'~~~'5000827'~'M145'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4993829712331'~~'Albert-Einstein-Str. 1'~~'Gerolzhofen'~~'97447'~'DE'~'Albert-Einstein-Str. 1'~~'Gerolzhofen'~~'97447'~'DE'~'Albert-Einstein-Str. 1'~~'Gerolzhofen'~~'97447'~'DE'~'Final'~'N'
+'Frigemo Cressier AG'~'5002514'~'A246'~~~'5000310'~'M147'~~~'Europe'~~'11379'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41327585111'~~'Route de Neuchatel 49'~~'Cressier'~~~'CH'~'Route de Neuchatel 49'~~'Cressier'~~~'CH'~'Route de Neuchatel 49'~~'Cressier'~~~'CH'~'Final'~'N'
+'Heinz Qingdao Food Co. Ltd'~'5002026'~'A1406'~~~'5001022'~'M154'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'8653283191791'~~'360 Beijing Road'~~'Jiaonan'~'37'~'266431'~'CN'~'360 Beijing Road'~~'Jiaonan'~'37'~'266431'~'CN'~'360 Beijing Road'~~'Jiaonan'~'37'~'266431'~'CN'~'Final'~'N'
+'Heinz / Serv a Portion BL'~'5002027'~'A601'~~~'5001022'~'M154'~~~'Europe'~~'15775'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3214421601'~'441582671612'~'Bleukenlaan 12'~~'Turnhout'~~'2300'~'BE'~'Bleukenlaan 12'~~'Turnhout'~~'2300'~'BE'~'Bleukenlaan 12'~~'Turnhout'~~'2300'~'BE'~'Final'~'N'
+'H J Heinz Company of Canada Ltd'~'5003011'~'A1233'~~~'5001022'~'M154'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'15193224051'~'0015193224100'~'148 Erie Street South'~~'Leamington'~'ON'~'N8H 3W8'~'CA'~'148 Erie Street South'~~'Leamington'~'ON'~'N8H 3W8'~'CA'~'148 Erie Street South'~~'Leamington'~'ON'~'N8H 3W8'~'CA'~'Final'~'N'
+'Hennig Olsen'~'5002751'~'A270'~~~'5000535'~'M155'~~~'Europe'~~'41396'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4738001100'~~'Boks 432'~~'Kristiansand'~~'4601'~'NO'~'Boks 432'~~'Kristiansand'~~'4601'~'NO'~'Boks 432'~~'Kristiansand'~~'4601'~'NO'~'Final'~'N'
+'Ilas Reny Picot'~'5002340'~'A301'~~~'5000170'~'M162'~~~'Europe'~~'21402'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'34985473600'~~'ANLEO'~~'ANLEO-NAVIA'~'O'~'33719'~'ES'~'ANLEO'~~'ANLEO-NAVIA'~'O'~'33719'~'ES'~'ANLEO'~~'ANLEO-NAVIA'~'O'~'33719'~'ES'~'Final'~'N'
+'Lieken'~'5001445'~'A326'~~~'5000145'~'M168'~~~'Europe'~~'37807'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'http://www.lieken.de'~'498221901315'~~'Max-Planck-Strasse 9'~~'Guenzburg'~~'89312'~'DE'~'Max-Planck-Strasse 9'~~'Guenzburg'~~'89312'~'DE'~'Max-Planck-Strasse 9'~~'Guenzburg'~~'89312'~'DE'~'Final'~'N'
+'McCain, GB'~'5002145'~'A456'~~~'5000678'~'M169'~~~'Europe'~~'38407'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'00441482607915'~~'Freightliner Road Brighton Street'~~'Hull'~~'HU3 4UW'~'GB'~'Freightliner Road Brighton Street'~~'Hull'~~'HU3 4UW'~'GB'~'Freightliner Road Brighton Street'~~'Hull'~~'HU3 4UW'~'GB'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'McCain,GB'~'5002147'~'A338'~~~'5000678'~'M169'~~~'Europe'~~'14202'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441733203051'~~'Funthams Lane'~'Whittlesey'~'Peterborough'~'CAM'~'PE7 2PG'~'GB'~'Funthams Lane'~'Whittlesey'~'Peterborough'~'CAM'~'PE7 2PG'~'GB'~'Funthams Lane'~'Whittlesey'~'Peterborough'~'CAM'~'PE7 2PG'~'GB'~'Final'~'N'
+'McCain'~'5002137'~'A479'~~~'5000678'~'M169'~~~'Europe'~~'18684'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0033321087800'~~'Parc d'Entreprises de la Motte du Bois Boite Postale 39'~~'Harnes'~~~'FR'~'Parc d'Entreprises de la Motte du Bois Boite Postale 39'~~'Harnes'~~~'FR'~'Parc d'Entreprises de la Motte du Bois Boite Postale 39'~~'Harnes'~~~'FR'~'Final'~'N'
+'McCain- Potato Plant'~'5002149'~'A328'~~~'5000678'~'M169'~~~'North America'~~'30451'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'14033454418'~~'P.O. Box 1479'~'Highway 3 at Chin'~'Coaldale'~'AB'~'T1M 1N3'~'CA'~'P.O. Box 1479'~'Highway 3 at Chin'~'Coaldale'~'AB'~'T1M 1N3'~'CA'~'P.O. Box 1479'~'Highway 3 at Chin'~'Coaldale'~'AB'~'T1M 1N3'~'CA'~'Final'~'N'
+'McCain Netherland'~'5002138'~'A332'~~~'5000678'~'M169'~~~'Europe'~~'18710'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'31320298100'~~'Staalstraat 20,'~~'Lelystad'~~~'NL'~'Staalstraat 20,'~~'Lelystad'~~~'NL'~'Staalstraat 20,'~~'Lelystad'~~~'NL'~'Final'~'N'
+'McCain Argentina'~'5008935'~'A595'~~~'5000678'~'M169'~~~'Latin America'~~'42137'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'542266439900'~'542266439907'~'Ruta 226 Km. 61.5'~~'Balcarce - Pcia'~'B'~'7620'~'AR'~'Ruta 226 Km. 61.5'~~'Balcarce - Pcia'~'B'~'7620'~'AR'~'Ruta 226 Km. 61.5'~~'Balcarce - Pcia'~'B'~'7620'~'AR'~'Final'~'N'
+'McCain,GB'~'5002146'~'A336'~~~'5000678'~'M169'~~~'Europe'~~'18723'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441723584141'~~'Havershill'~'Eastfield'~'Scarborough'~'NYK'~'YO11 3BS'~'GB'~'Havershill'~'Eastfield'~'Scarborough'~'NYK'~'YO11 3BS'~'GB'~'Havershill'~'Eastfield'~'Scarborough'~'NYK'~'YO11 3BS'~'GB'~'Final'~'N'
+'McCain GB'~'5002140'~'A339'~~~'5000678'~'M169'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441902894022'~~'Heathmills Road'~'Wombourne'~'Wolverhampton'~~~'GB'~'Heathmills Road'~'Wombourne'~'Wolverhampton'~~~'GB'~'Heathmills Road'~'Wombourne'~'Wolverhampton'~~~'GB'~'Final'~'N'
+'Mercator Emba'~'5002761'~'A454'~~~'5000545'~'M170'~~~'Europe'~~'33531'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'38617598447'~~'Tržaška cesta 2c'~'Logatec'~'Ljubljana'~~'1370'~'SI'~'Tržaška cesta 2c'~'Logatec'~'Ljubljana'~~'1370'~'SI'~'Tržaška cesta 2c'~'Logatec'~'Ljubljana'~~'1370'~'SI'~'Final'~'N'
+'Berglandmilch'~'5002448'~'A378'~~~'5000248'~'M182'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'49853296050'~~'Bahnhof 4'~~'Rotthalmünster'~'BY'~'94094'~'DE'~'Bahnhof 4'~~'Rotthalmünster'~'BY'~'94094'~'DE'~'Bahnhof 4'~~'Rotthalmünster'~'BY'~'94094'~'DE'~'Final'~'N'
+'Berglandmilch A'~'5002445'~'A379'~~~'5000248'~'M182'~~~'Europe'~~'15878'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'43463322240'~~'Schrödingerstaße 51'~~'Klagenfurt'~'2'~'9020'~'AT'~'Schrödingerstaße 51'~~'Klagenfurt'~'2'~'9020'~'AT'~'Schrödingerstaße 51'~~'Klagenfurt'~'2'~'9020'~'AT'~'Final'~'N'
+'Berglandmilch'~'5002447'~'A377'~~~'5000248'~'M182'~~~'Europe'~~'39227'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'437476773110'~~'Schärdinger-Platz 1'~~'Aschbach'~~'3361'~'AT'~'Schärdinger-Platz 1'~~'Aschbach'~~'3361'~'AT'~'Schärdinger-Platz 1'~~'Aschbach'~~'3361'~'AT'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'ADM Pura Foods Ltd '~'5001702'~'A387'~~~'5000179'~'M185'~~~'Europe'~~'47338'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'00441708894200'~'00441708894205'~'London Road'~~'Purfleet'~'ESS'~'RM19 1SD'~'GB'~'London Road'~~'Purfleet'~'ESS'~'RM19 1SD'~'GB'~'London Road'~~'Purfleet'~'ESS'~'RM19 1SD'~'GB'~'Final'~'N'
+'SCAN AB'~'5001604'~'A400'~~~~'M188'~~~'Europe'~~'48314'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4651125000'~~'FILIPSDALSGATAN 6'~~'Skara'~~~'SE'~'FILIPSDALSGATAN 6'~~'Skara'~~~'SE'~'FILIPSDALSGATAN 6'~~'Skara'~~~'SE'~'Final'~'N'
+'Schreiber Foods Europe GmbH'~'5001442'~'A402'~~~'5000715'~'M189'~~~'Europe'~~'34337'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'49752291660'~~'Im Unteren Feld 18'~~'Wangen'~~'88239'~'DE'~'Im Unteren Feld 18'~~'Wangen'~~'88239'~'DE'~'Im Unteren Feld 18'~~'Wangen'~~'88239'~'DE'~'Final'~'N'
+'SEARA ITAPIRANGA - plant #576'~'5001847'~'A404'~~~~'M191'~~~'Latin America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'551226'~'011554733447820'~'São Bonifácio street, 1301'~~'Itapiranga SC'~~'89896-000'~'BR'~'São Bonifácio street, 1301'~~'Itapiranga SC'~~'89896-000'~'BR'~'São Bonifácio street, 1301'~~'Itapiranga SC'~~'89896-000'~'BR'~'Final'~'N'
+'Turano Florida Bun LLC'~'5003135'~'A438'~~~'5000737'~'M198'~~~'North America'~~'46780'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'7083173943'~'14078124575'~'151 Martin Brower Rd., Ste. 100'~~'Orlando'~'FL'~'32824'~'US'~'151 Martin Brower Rd., Ste. 100'~~'Orlando'~'FL'~'32824'~'US'~'151 Martin Brower Rd., Ste. 100'~~'Orlando'~'FL'~'32824'~'US'~'Final'~'N'
+'WALTER RAU Neusser Öl und Fett AG'~'5001441'~'A448'~~~'5000140'~'M200'~~~'Europe'~~'26277'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4921312080'~~'Industriestrasse 36 - 40'~~'Neuss'~~'41460'~'DE'~'Industriestrasse 36 - 40'~~'Neuss'~~'41460'~'DE'~'Industriestrasse 36 - 40'~~'Neuss'~~'41460'~'DE'~'Final'~'N'
+'Beijing Bama Food Processing Co., Ltd'~'5002964'~'A167'~~~'5000744'~'M203'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'861087962888'~'861087962555'~'No. 30 Wu Dian Lu'~'North Jiu Gong, Da Xing District'~'Da Xing District'~'11'~'100076'~'CN'~'No. 30 Wu Dian Lu'~'North Jiu Gong, Da Xing District'~'Da Xing District'~'11'~'100076'~'CN'~'No. 30 Wu Dian Lu'~'North Jiu Gong, Da Xing District'~'Da Xing District'~'11'~'100076'~'CN'~'Final'~'N'
+'Ingham'~'5001261'~'A307'~~~'5000044'~'M220'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'6478846542'~~'624 Waihekau Rd'~~'Ngarau Waitoa'~'NTL'~~'NZ'~'624 Waihekau Rd'~~'Ngarau Waitoa'~'NTL'~~'NZ'~'624 Waihekau Rd'~~'Ngarau Waitoa'~'NTL'~~'NZ'~'Final'~'N'
+'Inghams Enterprises Pty Ltd'~'5001256'~'A302'~~~'5000044'~'M220'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'6492779282'~'6492779289'~'9 Golden Arches Place'~~'Manukau'~'NTL'~~'NZ'~'9 Golden Arches Place'~~'Manukau'~'NTL'~~'NZ'~'9 Golden Arches Place'~~'Manukau'~'NTL'~~'NZ'~'Final'~'N'
+'Inghams'~'5001258'~'A304'~~~'5000044'~'M220'~~~'APMEA'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61249548222'~'61249545914'~'Cnr Munibung & Pendlebury Roads'~~'Hoxton Park'~'NSW'~'2171'~'AU'~'Cnr Munibung & Pendlebury Roads'~~'Hoxton Park'~'NSW'~'2171'~'AU'~'Cnr Munibung & Pendlebury Roads'~~'Hoxton Park'~'NSW'~'2171'~'AU'~'Final'~'N'
+'Moy Park'~'5001397'~'A69'~~~'5000071'~'M228'~~~'Europe'~~'30425'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33611230840'~~'Parc d'activités du pommier, 712 Chemin de Noyelles, BP 39'~~'Henin Beaumont'~~'62251'~'FR'~'Parc d'activités du pommier, 712 Chemin de Noyelles, BP 39'~~'Henin Beaumont'~~'62251'~'FR'~'Parc d'activités du pommier, 712 Chemin de Noyelles, BP 39'~~'Henin Beaumont'~~'62251'~'FR'~'Final'~'N'
+'McKey Food Services Limited'~'5008982'~'A343'~~~'5000071'~'M228'~~~'APMEA'~~'18347'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'8675582260708'~~'Qingshuihe warehouse District,'~'Hongling North Road'~'Shenzhen'~'44'~'518024'~'CN'~'Qingshuihe warehouse District,'~'Hongling North Road'~'Shenzhen'~'44'~'518024'~'CN'~'Qingshuihe warehouse District,'~'Hongling North Road'~'Shenzhen'~'44'~'518024'~'CN'~'Final'~'N'
+'Kitchen Range Foods Ltd'~'5002362'~'A315'~~~'5000071'~'M228'~~~'Europe'~~'38483'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~'2011-05-18'~'Food'~~'441733404910'~'01733231322'~'Bakewell Road'~~'Orton SouthGate'~~'PE2 6XU'~'GB'~'Bakewell Road'~~'Orton SouthGate'~~'PE2 6XU'~'GB'~'Bakewell Road'~~'Orton SouthGate'~~'PE2 6XU'~'GB'~'Final'~'N'
+'OSI Food Solutions'~'5002240'~'A119'~~~'5000590'~'M247'~~~'Europe'~~'11327'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4982219100'~'4982215014'~'Roentgenstrasse 5'~~'Günzburg'~~'89312'~'DE'~'Roentgenstrasse 5'~~'Günzburg'~~'89312'~'DE'~'Roentgenstrasse 5'~~'Günzburg'~~'89312'~'DE'~'Final'~'N'
+'OSI International Foods (Australia) Pty Ltd'~'5002251'~'A369'~~~'5000590'~'M247'~~~'APMEA'~~'18154'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'61296722999'~'61296722850'~'11 Bessmer Street'~~'Blacktown'~'NSW'~'2148'~'AU'~'11 Bessmer Street'~~'Blacktown'~'NSW'~'2148'~'AU'~'11 Bessmer Street'~~'Blacktown'~'NSW'~'2148'~'AU'~'Final'~'N'
+'OSI Food Solutions'~'5002249'~'A363'~~~'5000590'~'M247'~~~'Europe'~~'16803'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'48896428290'~'48896428280'~'Morliny 15'~~'Ostroda'~'WN'~'14-100'~'PL'~'Morliny 15'~~'Ostroda'~'WN'~'14-100'~'PL'~'Morliny 15'~~'Ostroda'~'WN'~'14-100'~'PL'~'Final'~'N'
+'OSI Food Solutions'~'5002248'~'A122'~~~'5000590'~'M247'~~~'Europe'~~'41944'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0038122557706'~'0038122510051'~'Kralja Petra I bb'~~'Indija'~~'22320'~'CS'~'Kralja Petra I bb'~~'Indija'~~'22320'~'CS'~'Kralja Petra I bb'~~'Indija'~~'22320'~'CS'~'Final'~'N'
+'OSI Food Solutions'~'5002247'~'A124'~~~'5000590'~'M247'~~~'Europe'~~'21222'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441724280066'~'441724861123'~'Luneburg Way'~'Skippingdale'~'Scunthorpe'~'NLN'~'DN15 8LP'~'GB'~'Luneburg Way'~'Skippingdale'~'Scunthorpe'~'NLN'~'DN15 8LP'~'GB'~'Luneburg Way'~'Skippingdale'~'Scunthorpe'~'NLN'~'DN15 8LP'~'GB'~'Final'~'N'
+'OSI Foods Solutions'~'5002246'~'A110'~~~'5000590'~'M247'~~~'Europe'~~'44998'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'49540373100'~'495403731047'~'Gerhart-Hauptmann-Str. 10'~~'Bad Iburg'~~'49186'~'DE'~'Gerhart-Hauptmann-Str. 10'~~'Bad Iburg'~~'49186'~'DE'~'Gerhart-Hauptmann-Str. 10'~~'Bad Iburg'~~'49186'~'DE'~'Final'~'N'
+'OSI Food Solutions'~'5002245'~'A117'~~~'5000590'~'M247'~~~'Europe'~~'18595'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~'2010-12-17'~'Food'~~'380434224971'~'380434222174'~'33 Dovzshenko St.'~~'Kazatin'~'05'~'22100'~'UA'~'33 Dovzshenko St.'~~'Kazatin'~'05'~'22100'~'UA'~'33 Dovzshenko St.'~~'Kazatin'~'05'~'22100'~'UA'~'Final'~'N'
+'OSI Food Solutions'~'5002244'~'A120'~~~'5000590'~'M247'~~~'Europe'~~'39913'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3634568041'~'3634568042'~'Meszaros u. 1. Pf. 40'~~'Bábolna'~~'2943'~'HU'~'Meszaros u. 1. Pf. 40'~~'Bábolna'~~'2943'~'HU'~'Meszaros u. 1. Pf. 40'~~'Bábolna'~~'2943'~'HU'~'Final'~'N'
+'OSI Food Solutions'~'5002242'~'A116'~~~'5000590'~'M247'~~~'Europe'~~'40914'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'437223849270'~'43722389324'~'Kristein 2'~~'Enns'~~'4470'~'AT'~'Kristein 2'~~'Enns'~~'4470'~'AT'~'Kristein 2'~~'Enns'~~'4470'~'AT'~'Final'~'N'
+'OSI Food Solutions'~'5002239'~'A118'~~~'5000590'~'M247'~~~'Europe'~~'37859'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'49206569040'~'492065690420'~'Hochstrasse 175'~~'Duisburg  - Rheinhausen'~~'47228'~'DE'~'Hochstrasse 175'~~'Duisburg  - Rheinhausen'~~'47228'~'DE'~'Hochstrasse 175'~~'Duisburg  - Rheinhausen'~~'47228'~'DE'~'Final'~'N'
+'Ospelt Food AG'~'5002873'~'A75'~~~~'M248'~~~'Europe'~~'37653'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41583773000'~~'Im Tiefriet'~~'Sargans'~~'7320'~'CH'~'Im Tiefriet'~~'Sargans'~~'7320'~'CH'~'Im Tiefriet'~~'Sargans'~~'7320'~'CH'~'Final'~'N'
+'McCormick'~'5002160'~'A342'~~~'5000734'~'M258'~~~'Europe'~~'30269'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441706756800'~~'Whitelees Road'~~'Littleborough'~'LAN'~'OL15 8BZ'~'GB'~'Whitelees Road'~~'Littleborough'~'LAN'~'OL15 8BZ'~'GB'~'Whitelees Road'~~'Littleborough'~'LAN'~'OL15 8BZ'~'GB'~'Final'~'N'
+'McCormick'~'5002161'~'A341'~~~'5000734'~'M258'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'00441844292930'~'00441844294294'~'Thame Road, Pegasus Way'~'Haddenham'~'Aylesbury'~'BKM'~'HP17 9LB'~'GB'~'Thame Road, Pegasus Way'~'Haddenham'~'Aylesbury'~'BKM'~'HP17 9LB'~'GB'~'Thame Road, Pegasus Way'~'Haddenham'~'Aylesbury'~'BKM'~'HP17 9LB'~'GB'~'Final'~'N'
+'McCormick Food Co., Ltd'~'5008983'~'A1438'~~~'5000734'~'M258'~~~'APMEA'~~'43944'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'862082220832'~'862082213530'~'No.183, BinHe Road,Dong Ji Industrial District GETDZ'~'Luo Gang District'~'Guangzhou'~'44'~'510730'~'CN'~'No.183, BinHe Road,Dong Ji Industrial District GETDZ'~'Luo Gang District'~'Guangzhou'~'44'~'510730'~'CN'~'No.183, BinHe Road,Dong Ji Industrial District GETDZ'~'Luo Gang District'~'Guangzhou'~'44'~'510730'~'CN'~'Final'~'N'
+'Bila Tserkva Dairy Combine LLC'~'5001564'~'A700'~~~'5000874'~'M311'~~~'Europe'~~'41827'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'380445930272'~~'Uzynska St. 2'~'Tomylivka Village'~'S Tomylivka'~'32'~'9172'~'UA'~'Uzynska St. 2'~'Tomylivka Village'~'S Tomylivka'~'32'~'9172'~'UA'~'Uzynska St. 2'~'Tomylivka Village'~'S Tomylivka'~'32'~'9172'~'UA'~'Final'~'N'
+'C H Guenther & Son Inc USA'~'5001829'~'A837'~~~'5000208'~'M326'~~~'North America'~~'21727'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'12103516269'~~'129 East Guenther Street '~~'San Antonio'~'TX'~'78204'~'US'~'129 East Guenther Street '~~'San Antonio'~'TX'~'78204'~'US'~'129 East Guenther Street '~~'San Antonio'~'TX'~'78204'~'US'~'Final'~'N'
+'Guenther Bakery'~'5001828'~'A266'~~~'5000208'~'M326'~~~'Europe'~~'24406'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441706367676'~~'Lammerdries-Oost 34'~~'Olen'~~'2250'~'BE'~'Lammerdries-Oost 34'~~'Olen'~~'2250'~'BE'~'Lammerdries-Oost 34'~~'Olen'~~'2250'~'BE'~'Final'~'N'
+'Bell AG'~'5002516'~'A14'~~~'5000311'~'M330'~~~'Europe'~~'17972'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41623885323'~'41623885386'~'Duennernstr. 31'~~'Oensingen'~~'4702'~'CH'~'Duennernstr. 31'~~'Oensingen'~~'4702'~'CH'~'Duennernstr. 31'~~'Oensingen'~~'4702'~'CH'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Bell Romandie Cheseaux SA'~'5002517'~'A486'~~~'5000311'~'M330'~~~'Europe'~~'11901'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0041623885323'~~'Chemin du Châtelard 5'~~'Cheseaux-sur-Lausanne'~~'1033'~'CH'~'Chemin du Châtelard 5'~~'Cheseaux-sur-Lausanne'~~'1033'~'CH'~'Chemin du Châtelard 5'~~'Cheseaux-sur-Lausanne'~~'1033'~'CH'~'Final'~'N'
+'Maroc Bun Industries (MBI)'~'5002775'~'A518'~~~'5000558'~'M342'~~~'Europe'~~'17035'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~~~'BP 141 Nousasser'~~'Casablanca 20240 MOROCCO'~~~'MA'~'BP 141 Nousasser'~~'Casablanca 20240 MOROCCO'~~~'MA'~'BP 141 Nousasser'~~'Casablanca 20240 MOROCCO'~~~'MA'~'Final'~'N'
+'The Lakes Free Range Egg Co Ltd.'~'5002364'~'A68'~~~'5000192'~'M374'~~~'Europe'~~'46571'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441768890460'~~'MEG BANK, STAINTON'~~'PENRITH'~'CMA'~~'GB'~'MEG BANK, STAINTON'~~'PENRITH'~'CMA'~~'GB'~'MEG BANK, STAINTON'~~'PENRITH'~'CMA'~~'GB'~'Final'~'N'
+'LLC MARR RUSSIA'~'5001458'~'A64'~~~~'M375'~~~'Europe'~~'49276'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'74957853959'~'74957853945'~'143000 VOSTOCHNAYA STREET B5'~~'ODINTSOVO MOSCOW REGION'~~'121471'~'RU'~'143000 VOSTOCHNAYA STREET B5'~~'ODINTSOVO MOSCOW REGION'~~'121471'~'RU'~'143000 VOSTOCHNAYA STREET B5'~~'ODINTSOVO MOSCOW REGION'~~'121471'~'RU'~'Final'~'N'
+'Domaine des Genets SARL'~'5001387'~'A36'~~~'5000098'~'M376'~~~'Europe'~~'17633'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'33254885820'~'33254767223'~'Cidex 847'~~'Pierrefitte Sur Sauldre'~'F'~'41300'~'FR'~'Cidex 847'~~'Pierrefitte Sur Sauldre'~'F'~'41300'~'FR'~'Cidex 847'~~'Pierrefitte Sur Sauldre'~'F'~'41300'~'FR'~'Final'~'N'
+'Deans Foods Limited, UK'~'5002353'~'A111'~~~'5000850'~'M378'~~~'Europe'~~'21195'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441623873438'~'441623870657'~'The Moor'~'Bilsthorpe'~'Newark'~'NTT'~'NG22 8TS'~'GB'~'The Moor'~'Bilsthorpe'~'Newark'~'NTT'~'NG22 8TS'~'GB'~'The Moor'~'Bilsthorpe'~'Newark'~'NTT'~'NG22 8TS'~'GB'~'Final'~'N'
+'Green Factory L.L.C. SKA'~'5002498'~'A60'~~~'5000297'~'M381'~~~'Europe'~~'24367'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'48227853334'~'48227853337'~'ul. Kapitana Doranta 31'~~'Zakroczym'~~~'PL'~'ul. Kapitana Doranta 31'~~'Zakroczym'~~~'PL'~'ul. Kapitana Doranta 31'~~'Zakroczym'~~~'PL'~'Final'~'N'
+'Ovofit Eierprodukte GmbH'~'5001439'~'A76'~~~'5000138'~'M383'~~~'Europe'~~'29658'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'49863998360'~~'St Lorenz 4'~~'Neumarkt-St.Veit'~'BY'~'84494'~'DE'~'St Lorenz 4'~~'Neumarkt-St.Veit'~'BY'~'84494'~'DE'~'St Lorenz 4'~~'Neumarkt-St.Veit'~'BY'~'84494'~'DE'~'Final'~'N'
+'Honeytop Speciality Foods Ltd.'~'5002360'~'A1656'~~~'5000189'~'M389'~~~'Europe'~~'27682'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'00441582671611'~'00441582671612'~'Unit 20/21, Verey Road'~'Woodside Industrial Estate'~'Dunstable'~'BDF'~'LU5 4TT'~'GB'~'Unit 20/21, Verey Road'~'Woodside Industrial Estate'~'Dunstable'~'BDF'~'LU5 4TT'~'GB'~'Unit 20/21, Verey Road'~'Woodside Industrial Estate'~'Dunstable'~'BDF'~'LU5 4TT'~'GB'~'Final'~'N'
+'Titan SA'~'5001723'~'A606'~~~~'M391'~~~'Europe'~~'13423'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'40212046790'~'35351309205'~'Cernica , No. 11'~~'Pantelimon'~'IF'~~'RO'~'Cernica , No. 11'~~'Pantelimon'~'IF'~~'RO'~'Cernica , No. 11'~~'Pantelimon'~'IF'~~'RO'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Dawn Meats Ltd'~'5001782'~'A607'~~~'5001054'~'M392'~~~'Europe'~~'25370'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'35351295295'~'390376657651'~'Carroll's Cross'~'Kilmacthomas'~'Kilmacthomas'~'WD'~~'IE'~'Carroll's Cross'~'Kilmacthomas'~'Kilmacthomas'~'WD'~~'IE'~'Carroll's Cross'~'Kilmacthomas'~'Kilmacthomas'~'WD'~~'IE'~'Final'~'N'
+'Italia Alimentari'~'5001465'~'A608'~~~~'M393'~~~'Europe'~~'26513'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3903766801'~~'via Marconi 3'~~'Gazoldo degli Ippoliti'~'MN'~'46040'~'IT'~'via Marconi 3'~~'Gazoldo degli Ippoliti'~'MN'~'46040'~'IT'~'via Marconi 3'~~'Gazoldo degli Ippoliti'~'MN'~'46040'~'IT'~'Final'~'N'
+'Farma'~'5002777'~'A610'~~~'5000560'~'M395'~~~'Europe'~~'19466'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4218055583419'~'6644446900'~'Majcichov 50'~~'Trnava'~~~'SK'~'Majcichov 50'~~'Trnava'~~~'SK'~'Majcichov 50'~~'Trnava'~~~'SK'~'Final'~'N'
+'Saputo Dairy Products Canada G.P.'~'5002299'~'A626'~~~'5000653'~'M396'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'8193761112'~'8447556778'~'700 Rue Radisson'~~'Trois-Rivieres'~'QC'~~'CA'~'700 Rue Radisson'~~'Trois-Rivieres'~'QC'~~'CA'~'700 Rue Radisson'~~'Trois-Rivieres'~'QC'~~'CA'~'Final'~'N'
+'Saputo Dairy Products Canada Gp '~'5002968'~'A621'~~~'5000653'~'M396'~~~'North America'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'6137281751'~~'861 Clyde Avenue'~~'Ottawa'~'ON'~'K1Z 5A4'~'CA'~'861 Clyde Avenue'~~'Ottawa'~'ON'~'K1Z 5A4'~'CA'~'861 Clyde Avenue'~~'Ottawa'~'ON'~'K1Z 5A4'~'CA'~'Final'~'N'
+'Saputo Foods Cheese'~'5002287'~'A623'~~~'5000653'~'M396'~~~'North America'~~'32051'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'5143286663'~'0015143283328'~'6869 Boul Metropolitain est'~~'Saint-Leonad'~'QC'~~'CA'~'6869 Boul Metropolitain est'~~'Saint-Leonad'~'QC'~~'CA'~'6869 Boul Metropolitain est'~~'Saint-Leonad'~'QC'~~'CA'~'Final'~'N'
+'Saputo Foods-Riverway'~'5002288'~'A617'~~~'5000653'~'M396'~~~'North America'~~'37835'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4035683800'~~'5434-44 Street North East'~~'Calgary'~'AB'~~'CA'~'5434-44 Street North East'~~'Calgary'~'AB'~~'CA'~'5434-44 Street North East'~~'Calgary'~'AB'~~'CA'~'Final'~'N'
+'TULIP Ltd'~'5002371'~'A96'~~~'5000198'~'M397'~~~'Europe'~~'25928'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'441208262626'~'441208262662'~'Newtons Margate'~~'Bodmin'~'CON'~'PL31 1HF'~'GB'~'Newtons Margate'~~'Bodmin'~'CON'~'PL31 1HF'~'GB'~'Newtons Margate'~~'Bodmin'~'CON'~'PL31 1HF'~'GB'~'Final'~'N'
+'Miratorg Zapad LTD'~'5001580'~'A636'~~~'5000884'~'M398'~~~'Europe'~~'43335'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'74012920120'~'8676983423812'~'Sovhoznaya st.,12'~~'Nevskoe village, Gurievsk district'~'KGD'~'238300'~'RU'~'Sovhoznaya st.,12'~~'Nevskoe village, Gurievsk district'~'KGD'~'238300'~'RU'~'Sovhoznaya st.,12'~~'Nevskoe village, Gurievsk district'~'KGD'~'238300'~'RU'~'Final'~'N'
+'NESTLE'~'5002210'~'A134'~~~'5000317'~'M400'~~~'Europe'~~'11613'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'41317907201'~~'Fabrik Konolfingen'~~'Konolfingen'~~'3510'~'CH'~'Fabrik Konolfingen'~~'Konolfingen'~~'3510'~'CH'~'Fabrik Konolfingen'~~'Konolfingen'~~'3510'~'CH'~'Final'~'N'
+'Van Gorp Greenfood'~'5002488'~'A100'~~~'5000287'~'M401'~~~'Europe'~~'38145'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'31774752255'~'31774752285'~'Kerkberg 9'~~'Belfeld'~'LI'~~'NL'~'Kerkberg 9'~~'Belfeld'~'LI'~~'NL'~'Kerkberg 9'~~'Belfeld'~'LI'~~'NL'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Entremont Alliance'~'5001513'~'A701'~~~'5000839'~'M405'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0450337355'~~'Route de Montigny '~~'PEIGNEY'~~'52200'~'FR'~'Route de Montigny '~~'PEIGNEY'~~'52200'~'FR'~'Route de Montigny '~~'PEIGNEY'~~'52200'~'FR'~'Final'~'N'
+'Klemme, D'~'5001432'~'A702'~~~'5000133'~'M406'~~~'Europe'~~'29086'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4934757290'~~'Industriestrasse 4, '~'Gewerbegebiet am Strohhuegel'~'Lutherstadt Eisleben'~'ST'~'D-06295'~'DE'~'Industriestrasse 4, '~'Gewerbegebiet am Strohhuegel'~'Lutherstadt Eisleben'~'ST'~'D-06295'~'DE'~'Industriestrasse 4, '~'Gewerbegebiet am Strohhuegel'~'Lutherstadt Eisleben'~'ST'~'D-06295'~'DE'~'Final'~'N'
+'Lakeland Dairies'~'5002590'~'A193'~~~'5000382'~'M407'~~~'Europe'~~'24782'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3530494364200'~~'Killeshandra'~~'Killeshandra'~'CN'~~'IE'~'Killeshandra'~~'Killeshandra'~'CN'~~'IE'~'Killeshandra'~~'Killeshandra'~'CN'~~'IE'~'Final'~'N'
+'Pingouin'~'5002776'~'A149'~~~'5000559'~'M408'~~~'Europe'~~'17282'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'002120522669866'~~'269,Bd Chefchaouni, '~'Ain Sebaa'~'Casablanca'~'8'~'20250 '~'MA'~'269,Bd Chefchaouni, '~'Ain Sebaa'~'Casablanca'~'8'~'20250 '~'MA'~'269,Bd Chefchaouni, '~'Ain Sebaa'~'Casablanca'~'8'~'20250 '~'MA'~'Final'~'N'
+'Wojnar's  GmbH'~'5002466'~'A703'~~~'5000266'~'M409'~~~'Europe'~~'46480'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'431815850528'~~'Laxenburgerstraße 250, '~~'Vienna'~'9'~~'AT'~'Laxenburgerstraße 250, '~~'Vienna'~'9'~~'AT'~'Laxenburgerstraße 250, '~~'Vienna'~'9'~~'AT'~'Final'~'N'
+'Zitoban d.o.o.'~'5002963'~'A194'~~~'5000651'~'M410'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'38123510088 '~'38123510088'~'Bolnicka 7'~~'Zrenjanin '~'VO'~'23000 '~'CS'~'Bolnicka 7'~~'Zrenjanin '~'VO'~'23000 '~'CS'~'Bolnicka 7'~~'Zrenjanin '~'VO'~'23000 '~'CS'~'Final'~'N'
+'AGROPUR DIVISION NATREL'~'5003016'~'A147'~~~'5000676'~'M415'~~~'North America'~~'46699'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4164422329'~'0014164422365'~'1275 Lawrence Avenue East'~~'Don Mills'~'ON'~~'CA'~'1275 Lawrence Avenue East'~~'Don Mills'~'ON'~~'CA'~'1275 Lawrence Avenue East'~~'Don Mills'~'ON'~~'CA'~'Final'~'N'
+'Salprone UAB'~'5002651'~'A88'~~~'5000443'~'M416'~~~'Europe'~~'16478'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'370555316'~'370452277'~'Neveronys Kauno raj.'~~'Babtai'~~'LT-54328'~'LT'~'Neveronys Kauno raj.'~~'Babtai'~~'LT-54328'~'LT'~'Neveronys Kauno raj.'~~'Babtai'~~'LT-54328'~'LT'~'Final'~'N'
+'Andreas Wiegert'~'5002844'~'A452'~~~'5000586'~'M417'~~~'Europe'~~'37329'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'4312827183'~'00431282718322'~'Plattensteinergasse 29'~~'Vienna'~'9'~'1220'~'AT'~'Plattensteinergasse 29'~~'Vienna'~'9'~'1220'~'AT'~'Plattensteinergasse 29'~~'Vienna'~'9'~'1220'~'AT'~'Final'~'N'
+'Cerebos Gregg's Limited-AUCKLAND'~'5001330'~'A140'~~~'5000036'~'M418'~~~'APMEA'~~'17606'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~'www.cerebos.co.nz'~'6492742777'~'6492742490'~'291 East Tamaki Road'~'East Tamaki'~'Auckland'~~~'NZ'~'291 East Tamaki Road'~'East Tamaki'~'Auckland'~~~'NZ'~'291 East Tamaki Road'~'East Tamaki'~'Auckland'~~~'NZ'~'Final'~'N'
+'West Farm Foods - Darigold'~'5002899'~'A728'~~~'5000639'~'M426'~~~'North America'~~'25925'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'2083787100'~'0012083764568'~'618 NORTH ALLUMBAUGH ROAD P O  BOX'~~'BOISE'~'ID'~'83704'~'US'~'618 NORTH ALLUMBAUGH ROAD P O  BOX'~~'BOISE'~'ID'~'83704'~'US'~'618 NORTH ALLUMBAUGH ROAD P O  BOX'~~'BOISE'~'ID'~'83704'~'US'~'Final'~'N'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Saputo Dairy Foods USA'~'5002296'~'A1801'~~~'5000602'~'M427'~~~'North America'~~'25550'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'6077462141'~'0016077469725'~'40236 State Highway 10'~~'Delhi'~'NY'~'13753'~'US'~'40236 State Highway 10'~~'Delhi'~'NY'~'13753'~'US'~'40236 State Highway 10'~~'Delhi'~'NY'~'13753'~'US'~'Final'~'N'
+'TROPICANA Europo'~'5002261'~'A1226'~~~'5000733'~'M437'~~~'Europe'~~'44778'~'Preloaded - Pending HGS Validation'~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'0033344073333'~'0033344073343'~'67 rue de Marguerie'~~'Hermes'~~'60437'~'FR'~'67 rue de Marguerie'~~'Hermes'~~'60437'~'FR'~'67 rue de Marguerie'~~'Hermes'~~'60437'~'FR'~'Final'~'N'
+'PBI Fruit Juice Company'~'5001545'~'A552'~~~'5000733'~'M437'~~~'Europe'~~~~~'Identified'~'12-12-2013'~'Manufacturing'~'12-12-2013'~~'Food'~~'3250207207'~~'Jozef Verschaveweg 131'~~'Zeebrugge'~~~'BE'~'Jozef Verschaveweg 131'~~'Zeebrugge'~~~'BE'~'Jozef Verschaveweg 131'~~'Zeebrugge'~~~'BE'~'Final'~'N'
