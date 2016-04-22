@@ -40,15 +40,15 @@ public class OracleCtlFilesGeneration {
 		//OracleDataSource oracleDataSource = ctx.getBean("oracleDataSource", OracleDataSource.class);
 		
 		
-		String sqlloaderFileDir = "D:\\Atlas-galt\\MCD\\data-migration";
+		String sqlloaderFileDir = "D:\\data-migration";
 		String sqlloaderFileName = "sqlloader.bat";
-		String dataFileFolder="D:\\Atlas-galt\\MCD\\data-migration\\data";
-		String logfilesDir ="D:\\Atlas-galt\\MCD\\data-migration\\logs";
-		String controlFilesfolderDir = "D:\\Atlas-galt\\MCD\\data-migration\\control_";
+		String dataFileFolder="D:\data-migration\\data";
+		String logfilesDir ="D:\\data-migration\\logs";
+		String controlFilesfolderDir = "D:\\data-migration\\control_";
 
 		
-		String cepUser = "CEP_MIG05";
-		String cepPassword = "CEP_MIG05";
+		String cepUser = "rama";
+		String cepPassword = "rama";
 		String cepConnectionString = "jdbc:oracle:thin:@//localhost:1521/orcl";
 		String env="windows";
 
