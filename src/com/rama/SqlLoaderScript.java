@@ -39,7 +39,7 @@ public class SqlLoaderScript {
 
 		//OracleDataSource oracleDataSource = ctx.getBean("oracleDataSource", OracleDataSource.class);
 		
-		String dataMigrationFolder ="d:\\opt\\cep\\mcd\\data_migration";
+		String dataMigrationFolder ="d:\\data_migration";
 		String sqlloaderFileDir = dataMigrationFolder;
 		String sqlloaderFileName = "sqlloader.bat";
 		String dataFileFolder=dataMigrationFolder + "\\data";
@@ -47,9 +47,9 @@ public class SqlLoaderScript {
 		String controlFilesfolderDir = dataMigrationFolder + "\\control";
 		String badFileFolderDir = dataMigrationFolder + "\\bad";
 		
-		String cepUser = "CEP_MIG";
-		String cepPassword = "CEP_MIG";
-		String cepConnectionString = "jdbc:oracle:thin:@//localhost:1521/orcl";
+		String oraUser = "rama";
+		String oraPassword = "rama";
+		String oraConnectionString = "jdbc:oracle:thin:@//localhost:1521/orcl";
 		String env="windows";
 
 		String pathNameSqlloader= sqlloaderFileDir +  File.separatorChar + sqlloaderFileName;
@@ -127,7 +127,7 @@ public class SqlLoaderScript {
 	}
 	
 	private static void writeToAFile(String fileContent, String tableName) throws IOException{
-		String filePath="D:\\Atlas-galt\\MCD\\data-migration\\ctrl";
+		String filePath="D:\\data-migration\\ctrl";
 		
 		File fileD = new File(filePath);
 		if(!fileD.exists()){
