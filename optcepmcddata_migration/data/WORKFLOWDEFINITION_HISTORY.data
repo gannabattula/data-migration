@@ -1,5 +1,0 @@
-WorkFlowDefinitionID~ID~EntityTypeID~ProcessStepTypeID~Role~Sequence~CreateDate~Enabled~LastUpdatedBy~DocumentKey~LastUpdatedUTC~WasDeleted
-'33'~'1'~'99'~'21'~'8D928B1C-E12D-4AA4-BD06-C13E6CFC33B2'~'3'~'2013-07-24 00:00:00'~'true'~~~'2013-07-24 20:26:43'~'false'
-'36'~'2'~'1'~'2'~'92BD8957-9CE1-40C6-8FE7-0BE78760E664'~'2'~'2013-11-18 00:00:00'~'true'~~~'2013-11-18 14:35:55'~'false'
-'37'~'3'~'2'~'2'~'92BD8957-9CE1-40C6-8FE7-0BE78760E664'~'2'~'2013-11-18 00:00:00'~'true'~~~'2013-11-18 14:35:55'~'false'
-'38'~'4'~'2'~'12'~'92BD8957-9CE1-40C6-8FE7-0BE78760E664'~'3'~'2013-11-18 00:00:00'~'true'~~~'2013-11-18 14:35:55'~'false'

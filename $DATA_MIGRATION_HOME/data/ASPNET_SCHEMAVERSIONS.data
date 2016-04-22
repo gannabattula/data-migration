@@ -1,7 +1,0 @@
-Feature~CompatibleSchemaVersion~IsCurrentVersion
-'common'~'1'~'true'
-'health monitoring'~'1'~'true'
-'membership'~'1'~'true'
-'personalization'~'1'~'true'
-'profile'~'1'~'true'
-'role manager'~'1'~'true'
