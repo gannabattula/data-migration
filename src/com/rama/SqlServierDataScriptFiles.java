@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ows.cep.dbmigration;
+package com.rama;
 
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;

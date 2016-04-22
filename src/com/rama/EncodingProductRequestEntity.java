@@ -1,4 +1,4 @@
-package com.ows.cep.dbmigration;
+package com.rama;
 
 public class EncodingProductRequestEntity {
 
